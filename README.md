@@ -40,6 +40,21 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 > 👉 [click here to access the tutorial](https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9)
 > 
 
+### 3️⃣ Getting Started with Transformers
+
+> In this tutorial, you get to:
+> 
+> - Transformer neural networks can be used to tackle a wide range of tasks in natural language processing and beyond.
+> - Transfer learning allows one to adapt Transformers to specific tasks.
+> - The `pipeline()` function from the `transformers` library can be used to run inference with models from the [Hugging Face Hub](https://huggingface.co/models).
+> 
+> This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
+> 
+> ***Duration: 30-45 minutes***
+> 
+> 👉 [click here to access the tutorial](https://colab.research.google.com/drive/1aaYwYtAlPh1ZFjZ0WBqmb9piCQ0Bh9u0?usp=sharing#scrollTo=z3ObxbhKB2GX)
+>
+
 ## **Other resources to learn your way!**
 
 ### **The 🤗 Course**
