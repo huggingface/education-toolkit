@@ -220,5 +220,5 @@ There are Open-Source Python frameworks such as Gradio and Streamlit that allow 
 >
 > ***Duration: 20-40 minutes***
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9?authuser=1#scrollTo=D_Iv1CJZPekG)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
 >
