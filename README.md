@@ -17,49 +17,49 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 ### 1️⃣ A Tour through the Hugging Face Hub
 
 > In this tutorial, you get to:
-> 
+>
 > - Explore the over 30,000 models shared in the Hub.
 > - Learn efficient ways to find the right model and datasets for your own task.
 > - Learn how to contribute and work collaboratively in your ML workflows
-> 
+>
 > ***Duration: 20-40 minutes***
 > 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851)
-> 
+>
 
 ### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
 
 > In this tutorial, you get to:
-> 
+>
 > - Explore ML demos created by the community.
 > - Build a quick demo for your machine learning model in Python using the `gradio` library
 > - Host the demos for free with Hugging Face Spaces
 > - Add your demo to the Hugging Face org for your class or conference
-> 
+>
 > ***Duration: 20-40 minutes***
-> 
-> 👉 [click here to access the tutorial](https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9)
-> 
+>
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
+>
 
 ### 3️⃣ Getting Started with Transformers
 
 > In this tutorial, you get to:
-> 
+>
 > - Transformer neural networks can be used to tackle a wide range of tasks in natural language processing and beyond.
 > - Transfer learning allows one to adapt Transformers to specific tasks.
 > - The `pipeline()` function from the `transformers` library can be used to run inference with models from the [Hugging Face Hub](https://huggingface.co/models).
-> 
+>
 > This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
-> 
+>
 > ***Duration: 30-45 minutes***
-> 
-> 👉 [click here to access the tutorial](https://colab.research.google.com/drive/1aaYwYtAlPh1ZFjZ0WBqmb9piCQ0Bh9u0?usp=sharing#scrollTo=z3ObxbhKB2GX)
+>
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 >
 
 ## **Other resources to learn your way!**
 
 ### **The 🤗 Course**
 
-We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem. 
+We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
 
 👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
 
