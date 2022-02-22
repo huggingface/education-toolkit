@@ -75,6 +75,6 @@ From experts at Hugging Face, learn all about Transformers and their application
 </aside>
 
 <aside>
-✉️ If you have any questions, please contact [violette@huggingface.co](mailto:violette@huggingface.co)!
+✉️ If you have any questions, please contact violette@huggingface.co!
 
 </aside>
