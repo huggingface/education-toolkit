@@ -1,9 +1,9 @@
 # Un recorrido por el Hub de Hugging Face
 
 <aside>
-💡 ¡Bienvenidos!
+💡 ¡Hola!
 
-Hemos reunido un conjunto de herramientas que los instructores universitarios pueden usar para preparar fácilmente laboratorios, tareas o clases. El contenido está diseñado de manera autónoma, de modo que se puede incorporar fácilmente al plan de estudios existente. Este contenido es gratuito y utiliza tecnologías Open Source ampliamente conocidas (`transformers`, `gradio`, etc).
+Hemos reunido un conjunto de herramientas que l@s instructor@s universitari@s pueden usar para preparar fácilmente laboratorios, tareas o clases. El contenido está diseñado de manera autónoma, de modo que se puede incorporar fácilmente al plan de estudios existente. Este contenido es gratuito y utiliza tecnologías Open Source ampliamente conocidas (`transformers`, `gradio`, etc).
 
 Alternativamente, puede solicitar que alguien del equipo de Hugging Face ejecute los tutoriales para su clase a través de la iniciativa [Gira de demo.cratización del ML](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)!
 
@@ -15,7 +15,7 @@ Alternativamente, puede solicitar que alguien del equipo de Hugging Face ejecute
 
 **Metas de aprendizaje:**
 
-- Conozcer y explorar los más de 30,000 modelos compartidos en el Hub.
+- Conocer y explorar los más de 30,000 modelos compartidos en el Hub.
 - Aprender formas eficientes de encontrar modelos y datasets adecuados para su aplicación.
 - Aprender a trabajar de forma colaborativa.
 - Explorar demos de ML creados por la comunidad.
@@ -42,7 +42,7 @@ Aquí hay algunos datos sobre el Hub de Hugging Face:
 
 ### Explorando un modelo
 
-Empecemos la exploración de modelos. Puede acceder a 30,000 modelos (y creciendo) en [hf.co/models](http://hf.co/models). Verás a [gpt2](https://huggingface.co/gpt2) como uno de los modelos con más descargas. Hagamos clic en él.
+Empecemos la exploración de modelos. Puede acceder a 30,000 modelos (y creciendo) en [hf.co/models](http://hf.co/models). Verá a [gpt2](https://huggingface.co/gpt2) como uno de los modelos con más descargas. Hagamos clic en él.
 
 El sitio web lo llevará a la tarjeta del modelo cuando haga clic en un modelo. Una tarjeta modelo es una herramienta que documenta modelos, proporciona información útil sobre los modelos y es esencial para la detección y reproducibilidad.
 
@@ -54,7 +54,7 @@ La interfaz tiene muchos componentes así que vamos a repasarlos:
 
 ![Untitled](../images/Untitled.png)
 
-- En la columna de la derecha, puede jugar con el modelo directamente en el navegador utilizando la API de Inferencia. GPT2 es un modelo de generación de texto, por lo que generará texto adicional dada una entrada inicial. Intente escribir algo como "Era un día brillante y soleado".
+- En la columna de la derecha, puede jugar con el modelo directamente en el navegador utilizando el API de Inferencia. GPT2 es un modelo de generación de texto, por lo que generará texto adicional dada una entrada inicial. Intente escribir algo como "It was a bright and sunny day". Este modelo está en inglés pero también puede probar con los existentes en español.
 
 ![Untitled](../images/Untitled%201.png)
 
@@ -85,11 +85,11 @@ Hasta ahora, hemos explorado un solo modelo. ¡Vamos a enloquecernos! A la izqui
 
 ![Untitled](../images/Untitled%204.png)
 
-- **Languages**: Muchos de los modelos del Hub están relacionados con el PNL. Puede encontrar modelos para cientos de idiomas, incluidos idiomas de bajos recursos.
+- **Languages**: Muchos de los modelos del Hub están relacionados con el Procesamiento del Lenguaje Natural (PLN). Puede encontrar modelos para cientos de idiomas, incluidos idiomas de bajos recursos.
 
 **Reto 2**. ¿Cuántos modelos de clasificación de tokens hay en inglés?
 
-**Reto 3**. Si tuvieras que elegir un modelo en español de Reconocimiento Automático de Voz, ¿cuál elegirías? (Puede ser cualquier modelo para esta tarea e idioma).
+**Reto 3**. Si tuviera que elegir un modelo en español de Reconocimiento Automático de Voz, ¿cuál elegiría? (Puede ser cualquier modelo para esta tarea e idioma).
 
 ### **Agregar un modelo**
 
@@ -98,13 +98,13 @@ Supongamos que desea cargar un modelo en el Hub. Este modelo podría ser un mode
 Vayamos a través de los pasos:
 
 1. Vaya a [huggingface.co/new](http://huggingface.co/new) para crear un nuevo repositorio de modelos. Los repositorios que haga pueden ser públicos o privados.
-2. Comienza con un repositorio público que tiene una tarjeta modelo. Puede cargar su modelo mediante la interfaz de usuario web o hacerlo con Git. Si nunca ha usado Git antes le sugerimos que solo use la interfaz web. Puede hacer clic en Agregar archivo y arrastrar y soltar los archivos que desea agregar. Si desea comprender el flujo de trabajo completo, sigamos con el enfoque de Git.
+2. Comience con un repositorio público que tiene una tarjeta modelo. Puede cargar su modelo mediante la interfaz de usuario web o hacerlo con Git. Si nunca ha usado Git antes le sugerimos que solo use la interfaz web. Puede hacer clic en Agregar archivo y arrastrar y soltar los archivos que desea agregar. Si desea comprender el flujo de trabajo completo, sigamos con el enfoque de Git.
 
    1. Instale git y git-lfs en su sistema.
       1. Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
       2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). Los archivos grandes deben cargarse con Git LFS. Git no funciona bien una vez que los archivos tienen más de unos pocos megabytes lo cual es frecuente en ML. ¡Los modelos ML pueden tener hasta gigabytes o terabytes! 🤯
 
-   b. Clona el repositorio que acabas de crear
+   b. Clone el repositorio que acabas de crear
 
 ```python
 git clone https://huggingface.co/<your-username>/<your-model-id>
@@ -204,7 +204,7 @@ Exploremos el conjunto de datos [GLUE](https://huggingface.co/datasets/glue); un
 
 Compartir sus modelos y conjuntos de datos es genial, pero crear un demo interactivo disponible públicamente es aún más genial. Los demos de modelos son una parte cada vez más importante del ecosistema. Los demos permiten:
 
-- que los desarrolladores de modelos puedan **presentar** fácilmente su trabajo a una amplia audiencia, como en presentaciones de stakeholders, conferencias y proyectos de cursos;
+- que las personas que desarrollan modelos puedan **presentar** fácilmente su trabajo a una amplia audiencia, como en presentaciones de stakeholders, conferencias y proyectos de cursos;
 - aumentar la **reproducibilidad** en machine learning al reducir la barrera para probar un modelo;
 - compartir con una audiencia no técnica **el impacto de un modelo;**
 - crear un **portafolio** de machine learning.
