@@ -42,7 +42,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > - Sobre las redes neuronales de Transformers y cómo se pueden utilizar para abordar una amplia gama de tasks en el procesamiento del lenguaje natural y más allá.
 > - El aprendizaje por transferencia para adaptar Transformers a tasks específicos.
-> - Sobre la función `pipeline()` de la librería de `transformers` y cómo se puede usar para ejecutar inferencias con modelos del Hub de [Hugging Face.](https://huggingface.co/models)
+> - Sobre la función `pipeline()` de la biblioteca de `transformers` y cómo se puede usar para ejecutar inferencias con modelos del Hub de [Hugging Face.](https://huggingface.co/models)
 >
 > Este tutorial se basa en nuestro primer libro de O'Reilly _[Natural Language Processing with Transformers](https://transformersbook.com/) -_ ¡Échale un vistazo si quieres profundizar más en el tema!
 >

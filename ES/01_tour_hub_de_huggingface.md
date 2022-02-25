@@ -80,7 +80,7 @@ Dado que todos los modelos son repositorios basados en Git, obtiene el control d
 Hasta ahora, hemos explorado un solo modelo. ¡Vamos a enloquecernos! A la izquierda de [https://huggingface.co/models](https://huggingface.co/models), puede filtrar por diferentes cosas:
 
 - **Tasks:** Hay soporte para docenas de tareas en diferentes dominios: visión artificial, procesamiento de lenguaje natural, audio y más. Puede hacer clic en +13 para ver todas las tareas disponibles.
-  - **Libraries:** Aunque el Hub fue originalmente para modelos de transformers, el Hub tiene integración con docenas de librerías. Puede encontrar modelos de Keras, spaCy, allenNLP y más.
+  - **Bibliotecas** Aunque el Hub fue originalmente para modelos de transformers, el Hub tiene integración con docenas de bibliotecas. Puede encontrar modelos de Keras, spaCy, allenNLP y más.
 - **Datasets:** El Hub también alberga miles de conjuntos de datos, sobre los que encontrará más información más adelante.
 
 ![Untitled](../images/Untitled%204.png)
@@ -122,7 +122,7 @@ git lfs track "*.your_extension"
 git lfs install
 ```
 
-d. Agregue sus archivos al repositorio. Los archivos dependen del Framework/librerías que esté utilizando. En general, lo importante es que proporcione todos los artefactos necesarios para cargar el modelo. Por ejemplo:
+d. Agregue sus archivos al repositorio. Los archivos dependen del framework/bibliotecas que esté utilizando. En general, lo importante es que proporcione todos los artefactos necesarios para cargar el modelo. Por ejemplo:
 
 1. Para TensorFlow, es posible que desee cargar un archivo de modelo guardado o `h5`.
 2. Para PyTorch, por lo general, es un `pytorch_model.bin`.
@@ -176,7 +176,7 @@ Espera... ¿conjuntos de datos?
 
 ### Datasets
 
-En los procesos de creación de ML, generalmente se tiene un conjunto de datos para entrenar el modelo. El Hub aloja alrededor de 3,000 datasets que son Open Source y de uso gratuito en múltiples dominios. Además, la [librería](https://huggingface.co/docs/datasets/) de`datasets` de código abierto permite el uso fácil de estos datasets, incluidos los grandes, utilizando funciones muy convenientes como el streaming. Este laboratorio no pasará por la librería, pero explica cómo explorarlos.
+En los procesos de creación de ML, generalmente se tiene un conjunto de datos para entrenar el modelo. El Hub aloja alrededor de 3,000 datasets que son Open Source y de uso gratuito en múltiples dominios. Además, la [biblioteca](https://huggingface.co/docs/datasets/) de`datasets` de código abierto permite el uso fácil de estos datasets, incluidos los grandes, utilizando funciones muy convenientes como el streaming. Este laboratorio no pasará por la biblioteca, pero explica cómo explorarlos.
 
 Al igual que con los modelos, puede dirigirse a [https://hf.co/datasets](https://hf.co/datasets). A la izquierda, puede encontrar diferentes filtros según el task, la licencia y el tamaño del datasets.
 
