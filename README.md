@@ -2,92 +2,58 @@
 
 <aside>
 
-👋 **Welcome!**
+We've put together a set of tools college instructors can use to easily prepare labs, assignments, or lectures. The content is self-designed so that it can be easily incorporated into the existing curriculum. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
 
-We’ve assembled a toolkit that university instructors can use to easily prepare labs, homework, or classes. The content is designed in a self-contained way such that it can easily be incorporated into the existing curriculum. This content is **free** and uses widely known Open Source technologies (`transformers`, `gradio`, etc).
+Alternatively, you can request that someone from the Hugging Face team run the tutorials for your class through the [ML Demo-cratization Tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiatives!
 
-Alternatively, you can request for someone on the Hugging Face team to run the tutorials for your class via the [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiative!
+In addition to the tutorials, we also share other resources to go deeper into ML or that can help design the toolkit content.
 
-Apart from tutorials, we also share other resources to go further into ML or that can assist in designing course content.
+## 🌎 Languages and translations
 
-</aside>
+|     Language     |                                           Source                                            | Authors                                                                                                                         | Contributors                                                                                   |
+| :--------------: | :-----------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|     English      | [ `tutorials/EN` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/EN) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero)  |                                                                                                |
+|     Spanish      | [ `tutorials/ES` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES) | @ [lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero) | @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
+| Portuguese (WIP) | [ `tutorials/PT` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT) |                                                                                                                                 |                                                                                                |
 
-## **Our Tutorials Catalog**
+### Translating the toolkit into your language
 
-### 1️⃣ A Tour through the Hugging Face Hub
+As part of our mission to democratize machine learning, we'd love to make the educational toolkit available in many more languages! Follow the steps below if you want to help translate the toolkit into your language 🙏.
 
-> In this tutorial, you get to:
->
-> - Explore the over 30,000 models shared in the Hub.
-> - Learn efficient ways to find the right model and datasets for your own task.
-> - Learn how to contribute and work collaboratively in your ML workflows
->
-> ***Duration: 20-40 minutes***
-> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851)
->
+**🍴 Fork the repository**
 
-### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
+To get started, you'll first need to [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo). You can do this by clicking on the **Fork** button on the top-right corner of this repo's page.
 
-> In this tutorial, you get to:
->
-> - Explore ML demos created by the community.
-> - Build a quick demo for your machine learning model in Python using the `gradio` library
-> - Host the demos for free with Hugging Face Spaces
-> - Add your demo to the Hugging Face org for your class or conference
->
-> ***Duration: 20-40 minutes***
->
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
->
+Once you've forked the repo, you'll want to get the files on your local machine for editing. You can do that by cloning the fork with Git as follows:
 
-### 3️⃣ Getting Started with Transformers
+```bash
+git clone https://github.com/YOUR-USERNAME/education-toolkit
+```
 
-> In this tutorial, you get to:
->
-> - Transformer neural networks can be used to tackle a wide range of tasks in natural language processing and beyond.
-> - Transfer learning allows one to adapt Transformers to specific tasks.
-> - The `pipeline()` function from the `transformers` library can be used to run inference with models from the [Hugging Face Hub](https://huggingface.co/models).
->
-> This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
->
-> ***Duration: 30-45 minutes***
->
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
->
+**📋 Copy-paste the English version with a new language code**
 
-## **Other resources to learn your way!**
+The toolkit files are organised into one main directory:
 
-### **The 🤗 Course**
+- [`tutorials`](https://github.com/huggingface/education-toolkit/tree/main/tutorials): all the toolkit materials organized by language.
 
-We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+You'll only need to copy the files in the [`tutorials/EN`](https://github.com/huggingface/education-toolkit/tree/main/tutorials/EN) directory, so first navigate to your fork of the repo and run the following:
 
-👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
+```bash
+cd ~/path/to/education-toolkit
+cp -r tutorials/EN tutorials/LANG-ID
+```
 
-<aside>
-💡 This course:
+Here, `LANG-ID` should be one of the ISO 639-1 or ISO 639-2 language codes -- see [here](https://www.loc.gov/standards/iso639-2/php/code_list.php) for a handy table.
 
-- Requires good knowledge of Python
-- Is better taken after an introductory deep learning course, such as **[fast.ai’s](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** or one of the programs developed by **[DeepLearning.AI](https://www.deeplearning.ai/)**
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
-</aside>
+**✍️ Start translating**
 
-### **The 🤗 Book**
+Now comes the fun part - translating the text in the `md` and `ipynb` files!
 
-<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
+> 🙋 If you'd like others to help you with the translation, you can either [open an issue](https://github.com/huggingface/education-toolkit/issues) or tag @lewtun on Twitter to gain some visibility.
 
-Released February 2022
+## 🙌 Acknowledgements
 
-From experts at Hugging Face, learn all about Transformers and their applications to a wide range of NLP tasks.
-
-👉 [click here to visit the book’s website](https://transformersbook.com/)
-
-<aside>
-💡 This book:
-
-- Is written for data scientists and machine learning engineers who may have heard about the recent breakthroughs involving transformers, but are lacking an in-depth guide to help them adapt these models to their own use cases.
-- Assumes you have some practical experience with training models on GPUs.
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
-</aside>
+The structure of this repo and README are inspired by the wonderful [Advanced NLP with spaCy](https://github.com/ines/spacy-course) course and the [Hugging Face](https://github.com/huggingface/course) course.
 
 <aside>
 ✉️ If you have any questions, please contact violette@huggingface.co!
