@@ -52,21 +52,21 @@ La interfaz tiene muchos componentes así que vamos a repasarlos:
 
 - En la parte superior puede encontrar diferentes **etiquetas** para cosas como la tarea (_generación de texto, clasificación de imágenes, etc._), frameworks (_PyTorch, TensorFlow, etc._), el idioma del modelo (_inglés, árabe, etc._) y licencia (_por ejemplo, MIT_).
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93b84eb6-dcfd-4cb4-a076-082f3d836c42/Untitled.png)
+![Untitled](../images/Untitled.png)
 
 - En la columna de la derecha, puede jugar con el modelo directamente en el navegador utilizando la API de Inferencia. GPT2 es un modelo de generación de texto, por lo que generará texto adicional dada una entrada inicial. Intente escribir algo como "Era un día brillante y soleado".
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97d223ed-88f7-42aa-8c33-827f0318d0ae/Untitled.png)
+![Untitled](../images/Untitled%201.png)
 
 - En el medio, puede revisar el contenido de la tarjeta modelo. Tiene secciones como usos previstos y limitaciones, procedimiento de entrenamiento e Información de citas.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0cdfa25-7e34-47e5-a046-c89023977497/Untitled.png)
+![Untitled](../images/Untitled%202.png)
 
 ¿De dónde vienen todos estos datos? En Hugging Face todo se basa en **repositorios de Git** y es de código abierto. Puede hacer clic en la pestaña "Files and Versions" que le permitirá ver todos los archivos del repositorio incluidos los pesos del modelo.
 
 La tarjeta modelo es un archivo Markdown ([README.md](http://readme.md/)) que, además del contenido, contiene metadatos como las etiquetas.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98c005ab-1dcf-4948-ae09-3b936739e197/Untitled.png)
+![Untitled](../images/Untitled%203.png)
 
 Dado que todos los modelos son repositorios basados en Git, obtiene el control de versiones listo para usar. Al igual que con GitHub, puede hacer cosas como cloning Git, adding, committing, branching y pushing. Si nunca ha usado Git antes, le sugerimos el siguiente [recurso](https://learngitbranching.js.org/).
 
@@ -83,7 +83,7 @@ Hasta ahora, hemos explorado un solo modelo. ¡Vamos a enloquecernos! A la izqui
   - **Libraries:** Aunque el Hub fue originalmente para modelos de transformers, el Hub tiene integración con docenas de librerías. Puede encontrar modelos de Keras, spaCy, allenNLP y más.
 - **Datasets:** El Hub también alberga miles de conjuntos de datos, sobre los que encontrará más información más adelante.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f213a02-da5f-49b6-98cd-dd1b53c01505/Untitled.png)
+![Untitled](../images/Untitled%204.png)
 
 - **Languages**: Muchos de los modelos del Hub están relacionados con el PNL. Puede encontrar modelos para cientos de idiomas, incluidos idiomas de bajos recursos.
 
@@ -149,7 +149,7 @@ git push
 
 ¡Y hemos terminado! ¡Puede consultar su repositorio con todos los archivos agregados!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cb16fb1-8deb-44d0-bec3-b5b01b0f2515/Untitled.png)
+![Untitled](../images/Untitled%205.png)
 
 La interfaz de usuario le permite explorar los archivos del modelo y los commits. Puede ver la diferencia introducida por cada commit.
 
@@ -184,15 +184,15 @@ Exploremos el conjunto de datos [GLUE](https://huggingface.co/datasets/glue); un
 
 - De manera similar a los repositorios de modelos, tiene una tarjeta de datasets que documenta el conjunto de datos. Si se desplaza un poco hacia abajo, encontrará cosas como el resumen, la estructura y más.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65f3f93b-99b1-4183-a260-cc6ee71f43cc/Untitled.png)
+![Untitled](../images/Untitled%206.png)
 
 - En la parte superior puede explorar una porción del conjunto de datos directamente en el navegador. El dataset de GLUE se divide en varios subconjuntos de datos que puede seleccionar, como COLA y QNLI.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6548275c-835b-421f-9370-22029ea96dea/Untitled.png)
+![Untitled](../images/Untitled%207.png)
 
 - A la derecha de la tarjeta del conjunto de datos puede ver una lista de modelos entrenados con este conjunto.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d790f8f9-1fd8-4228-b5f8-42fb75e125ba/Untitled.png)
+![Untitled](../images/Untitled%208.png)
 
 **Reto 6**. Busque el conjunto de datos de Common Voice. Responda estas preguntas:
 
@@ -211,7 +211,7 @@ Compartir sus modelos y conjuntos de datos es genial, pero crear un demo interac
 
 Existen frameworks de Python de código abierto como Gradio y Streamlit que permiten construir estos demos muy fácilmente, y herramientas como Hugging Face [Spaces](http://hf.co/spaces/launch) que permiten alojarlos y compartirlos. Como laboratorio de seguimiento recomendamos realizar el tutorial **2️⃣ Cree y aloje demos de machine learning con Gradio y Hugging Face**.
 
-> En este tutorial aprenderá a:
+> En ese tutorial aprenderá a:
 >
 > - Explorar demos de ML creados por la comunidad.
 > - Crear un demo rápido para su modelo de machine learning en Python usando la biblioteca `gradio`.
