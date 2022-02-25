@@ -21,7 +21,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 20-40 minutos_**
 >
-> [Un recorrido por el Hub de Hugging Face](https://github.com/huggingface/education-toolkit/blob/main/01_tour_hub_de_huggingface.md)
+> [Un recorrido por el Hub de Hugging Face](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES/01_tour_hub_de_huggingface.md)
 
 ### **2️⃣ Cree y aloje demos de machine learning con Gradio y Hugging Face**
 
@@ -34,7 +34,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 20-40 minutos_**
 >
-> 👉 [Click aquí para acceder al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-con-gradio.ipynb)
+> 👉 [Click aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
 
 ### **3️⃣ Primeros pasos con los Transformers**
 
@@ -48,4 +48,39 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 30-45 minutos_**
 >
-> 👉 [click aquí para acceder al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
+> 👉 [click aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+
+## ¡Otros recursos para aprender a su manera!
+
+### **El 🤗 Curso**
+
+Brindamos un curso (gratis y sin anuncios) que le enseña procesamiento del lenguaje natural (NLP) utilizando bibliotecas del ecosistema de [Hugging Face.](https://huggingface.co/)
+
+👉 [De clic aquí para acceder al 🤗 Curso](https://huggingface.co/course/chapter1/1).
+
+    💡 Este curso:
+
+- Requiere buen conocimiento de Python.
+- Es mejor tomarlo después de un curso introductorio de machine learning como **[aprendizaje profundo práctico de fast.ai](https://www.fast.ai/)** o uno de los programas desarrollados por **[deeplearning.ai](https://www.deeplearning.ai/)**
+- No requiere conocimientos previos en **[PyTorch](https://pytorch.org/)** o **[TensorFlow](https://www.tensorflow.org/),** aunque ayudará si tiene algo de familiaridad con cualquiera de ellos.
+</aside>
+
+### **El 🤗 Libro**
+
+  <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
+
+Publicado en febrero de 2022
+
+Aprenda de parte de los expertos de Hugging Face todo sobre los Transformers y sus aplicaciones para una amplia gama de aplicaciones de NLP.
+
+👉 [Haga clic aquí para visitar el sitio web del libro](https://transformersbook.com/)
+
+    💡 Este libro:
+
+- Está escrito para científicos de datos e ingenieros de machine learning que pueden haber oído hablar de los avances recientes relacionados con los transformers pero que carecen de una guía detallada que los ayude a adaptar estos modelos a sus propios casos de uso.
+- Supone que tiene alguna experiencia entrenando modelos con GPUs.
+- No requiere conocimientos previos de [PyTorch](https://pytorch.org/) o [TensorFlow](https://www.tensorflow.org/), aunque cierta familiaridad con cualquiera de ellos ayudará
+</aside>
+
+<aside>
+✉️ Si tiene alguna pregunta comuníquese con violette@huggingface.co.

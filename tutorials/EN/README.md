@@ -22,9 +22,8 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 > - Learn efficient ways to find the right model and datasets for your own task.
 > - Learn how to contribute and work collaboratively in your ML workflows
 >
-> ***Duration: 20-40 minutes***
+> **_Duration: 20-40 minutes_**
 > 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851)
->
 
 ### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
 
@@ -35,10 +34,9 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 > - Host the demos for free with Hugging Face Spaces
 > - Add your demo to the Hugging Face org for your class or conference
 >
-> ***Duration: 20-40 minutes***
+> **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
->
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
 
 ### 3️⃣ Getting Started with Transformers
 
@@ -50,10 +48,9 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 >
 > This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
 >
-> ***Duration: 30-45 minutes***
+> **_Duration: 30-45 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
->
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
 ## **Other resources to learn your way!**
 
@@ -73,7 +70,7 @@ We provide a course (free and without ads) that teaches you about natural langua
 
 ### **The 🤗 Book**
 
-<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
+<img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
 
 Released February 2022
 
