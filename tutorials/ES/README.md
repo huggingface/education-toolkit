@@ -1,7 +1,7 @@
 # 🤗 **Kit de Herramientas de Educación**
 
 <aside>
-💡 **¡Hola!** Hemos reunido un conjunto de herramientas que l@s profesor@s universitari@s pueden usar para preparar fácilmente laboratorios, tareas o clases. El contenido está diseñado de manera autónoma, de modo que se puede incorporar fácilmente al plan de estudios existente. Este contenido es gratuito y utiliza tecnologías Open Source ampliamente conocidas (`transformers`, `gradio`, etc).
+💡 ¡Hola! Hemos reunido un conjunto de herramientas que l@s profesor@s universitari@s pueden usar para preparar fácilmente laboratorios, tareas o clases. El contenido está diseñado de manera autónoma, de modo que se puede incorporar fácilmente al plan de estudios existente. Este contenido es gratuito y utiliza tecnologías Open Source ampliamente conocidas (`transformers`, `gradio`, etc).
 
 Alternativamente, puede solicitar que alguien del equipo de Hugging Face ejecute los tutoriales para su clase a través de la iniciativa [Gira de demo.cratización de ML](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)!
 
@@ -11,7 +11,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 
 ## Nuestros Tutoriales
 
-### 1️⃣ Un recorrido por el Hub **de** Hugging Face
+### 1️⃣ Un recorrido por el Hub de Hugging Face
 
 > En este tutorial aprenderá a:
 >
@@ -23,18 +23,18 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > [Un recorrido por el Hub de Hugging Face](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES/01_tour_hub_de_huggingface.md)
 
-### **2️⃣ Cree y aloje demos de machine learning con Gradio y Hugging Face**
+### **2️⃣ Cree y aloje demos de Machine Learning con Gradio y Hugging Face**
 
 > En este tutorial aprenderá a:
 >
 > - Explorar demos de ML creados por la comunidad.
-> - Crear un demo rápido para su modelo de machine learning en Python usando la biblioteca `gradio`.
+> - Crear un demo rápido para su modelo de Machine Learning en Python usando la biblioteca `gradio`.
 > - Alojar los demos de forma gratuita con Hugging Face Spaces.
 > - Agregar su demo a su organización en Hugging Face para su clase o conferencia.
 >
 > **_Duración: 20-40 minutos_**
 >
-> 👉 [Click aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
+> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
 
 ### **3️⃣ Primeros pasos con los Transformers**
 
@@ -48,7 +48,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 30-45 minutos_**
 >
-> 👉 [click aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
 ## ¡Otros recursos para aprender a su manera!
 
@@ -61,7 +61,7 @@ Brindamos un curso (gratis y sin anuncios) que le enseña procesamiento del leng
     💡 Este curso:
 
 - Requiere buen conocimiento de Python.
-- Es mejor tomarlo después de un curso introductorio de machine learning como **[aprendizaje profundo práctico de fast.ai](https://www.fast.ai/)** o uno de los programas desarrollados por **[deeplearning.ai](https://www.deeplearning.ai/)**
+- Es mejor tomarlo después de un curso introductorio de Machine Learning como **[aprendizaje profundo práctico de fast.ai](https://www.fast.ai/)** o uno de los programas desarrollados por **[deeplearning.ai](https://www.deeplearning.ai/)**
 - No requiere conocimientos previos en **[PyTorch](https://pytorch.org/)** o **[TensorFlow](https://www.tensorflow.org/),** aunque ayudará si tiene algo de familiaridad con cualquiera de ellos.
 </aside>
 
@@ -77,7 +77,7 @@ Aprenda de parte de los expertos de Hugging Face todo sobre los Transformers y s
 
     💡 Este libro:
 
-- Está escrito para científicos de datos e ingenieros de machine learning que pueden haber oído hablar de los avances recientes relacionados con los transformers pero que carecen de una guía detallada que los ayude a adaptar estos modelos a sus propios casos de uso.
+- Está escrito para científicos de datos e ingenieros de Machine Learning que pueden haber oído hablar de los avances recientes relacionados con los transformers pero que carecen de una guía detallada que los ayude a adaptar estos modelos a sus propios casos de uso.
 - Supone que tiene alguna experiencia entrenando modelos con GPUs.
 - No requiere conocimientos previos de [PyTorch](https://pytorch.org/) o [TensorFlow](https://www.tensorflow.org/), aunque cierta familiaridad con cualquiera de ellos ayudará
 </aside>

@@ -53,11 +53,11 @@ The interface has many components, so let’s go through them:
 
 [https://www.youtube.com/watch?v=XvSGPZFEjDY&feature=emb_imp_woyt](https://www.youtube.com/watch?v=XvSGPZFEjDY&feature=emb_imp_woyt)
 
-- At the top, you can find different **tags** for things such as the task (_text generation, image classification_, etc.), frameworks (_PyTorch_, _TensorFlow_, etc.), the model’s language (_English_, _Arabic_, _etc._), and license (_e.g. MIT_).
+- At the top, you can find different **tags** for things such as the task (*text generation, image classification*, etc.), frameworks (*PyTorch*, *TensorFlow*, etc.), the model’s language (*English*, *Arabic*, *etc.*), and license (*e.g. MIT*).
 
 ![Untitled](../../images/mode_card_tags.png)
 
-- At the right column, you can play with the model directly in the browser using the _Inference API_. GPT2 is a text generation model, so it will generate additional text given an initial input. Try typing something like, “It was a bright and sunny day.”
+- At the right column, you can play with the model directly in the browser using the *Inference API*. GPT2 is a text generation model, so it will generate additional text given an initial input. Try typing something like, “It was a bright and sunny day.”
 
 ![Untitled](../../images/model_card_inference_api.png)
 
@@ -101,51 +101,49 @@ Let’s go through the steps:
 1. Go to [huggingface.co/new](http://huggingface.co/new) to create a new model repository. The repositories you make can be either public or private.
 2. You start with a public repo that has a model card. You can upload your model either by using the Web UI or by doing it with Git. If you’ve never used Git before, we suggest just using the Web interface. You can click Add File and drag and drop the files you want to add. If you want to understand the complete workflow, let’s go with the Git approach.
 
-   1. Install both git and git-lfs installed on your system.
-      1. Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-      2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). Large files need to be uploaded with Git LFS. Git does not work well once your files are above a few megabytes, which is frequent in ML. ML models can be up to gigabytes or terabytes! 🤯
-   2. Clone the repository you just created
+    1. Install both git and git-lfs installed on your system.
+        1. Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+        2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). Large files need to be uploaded with Git LFS.  Git does not work well once your files are above a few megabytes, which is frequent in ML. ML models can be up to gigabytes or terabytes! 🤯
+    2. Clone the repository you just created
 
-      ```python
-      git clone https://huggingface.co/<your-username>/<your-model-id>
-      ```
+        ```python
+        git clone https://huggingface.co/<your-username>/<your-model-id>
+        ```
 
-   3. Go to the directory and initialize Git LFS
+    3. Go to the directory and initialize Git LFS
+        1. Optional. We already provide a list of common file extensions for the large files in `.gitattributes`, If the files you want to upload are not included in the `.gitattributes` file, you might need as shown here: You can do so with
 
-      1. Optional. We already provide a list of common file extensions for the large files in `.gitattributes`, If the files you want to upload are not included in the `.gitattributes` file, you might need as shown here: You can do so with
+            ```python
+            git lfs track "*.your_extension"
+            ```
 
-         ```python
-         git lfs track "*.your_extension"
-         ```
+            ```python
+             git lfs install
+            ```
 
-         ```python
-          git lfs install
-         ```
+    4. Add your files to the repository. The files depend on the framework/libraries you’re using. Overall, what is important is that you provide all artifacts required to load the model. For example:
+        1. For TensorFlow, you might want to upload a SavedModel or `h5` file.
+        2. For PyTorch, usually, it’s a `pytorch_model.bin`.
+        3. For Scikit-Learn, it’s usually a `joblib` file.
 
-   4. Add your files to the repository. The files depend on the framework/libraries you’re using. Overall, what is important is that you provide all artifacts required to load the model. For example:
+        Here is an example in Python saving a Scikit-Learn model file.
 
-      1. For TensorFlow, you might want to upload a SavedModel or `h5` file.
-      2. For PyTorch, usually, it’s a `pytorch_model.bin`.
-      3. For Scikit-Learn, it’s usually a `joblib` file.
+        ```python
+        from sklearn import linear_model
+        reg = linear_model.LinearRegression()
+        reg.fit([[0, 0], [1, 1], [2, 2]], [0, 1, 2])
 
-      Here is an example in Python saving a Scikit-Learn model file.
+        from joblib import dump, load
+        dump(reg, 'model.joblib')
+        ```
 
-      ```python
-      from sklearn import linear_model
-      reg = linear_model.LinearRegression()
-      reg.fit([[0, 0], [1, 1], [2, 2]], [0, 1, 2])
+    5. Commit and push your files (make sure the saved file is within the repository)
 
-      from joblib import dump, load
-      dump(reg, 'model.joblib')
-      ```
-
-   5. Commit and push your files (make sure the saved file is within the repository)
-
-   ```python
-   git add .
-   git commit -m "First model version"
-   git push
-   ```
+    ```python
+    git add .
+    git commit -m "First model version"
+    git push
+    ```
 
 And we're done! You can check your repository with all the recently added files!
 
@@ -218,6 +216,6 @@ There are Open-Source Python frameworks such as Gradio and Streamlit that allow 
 > - Host the demos for free with Hugging Face Spaces
 > - Add your demo to the Hugging Face org for your class or conference
 >
-> **_Duration: 20-40 minutes_**
+> ***Duration: 20-40 minutes***
 >
 > 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
