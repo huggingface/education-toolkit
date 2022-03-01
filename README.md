@@ -2,7 +2,7 @@
 
 <aside>
 
-We've put together a set of tools college instructors can use to easily prepare labs, assignments, or lectures. The content is self-designed so that it can be easily incorporated into the existing curriculum. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
+We've put together a set of tools college instructors can use to easily prepare labs, assignments, or lectures. The content is self-contained so that it can be easily incorporated into an existing curriculum. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
 
 Alternatively, you can request that someone from the Hugging Face team run the tutorials for your class through the [ML Demo-cratization Tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiatives!
 
