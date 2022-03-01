@@ -36,7 +36,7 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 >
 > **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
 
 ### 3️⃣ Getting Started with Transformers
 
@@ -50,7 +50,7 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 >
 > **_Duration: 30-45 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
 ## **Other resources to learn your way!**
 
