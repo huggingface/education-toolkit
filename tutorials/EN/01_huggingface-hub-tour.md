@@ -55,19 +55,19 @@ The interface has many components, so let’s go through them:
 
 - At the top, you can find different **tags** for things such as the task (*text generation, image classification*, etc.), frameworks (*PyTorch*, *TensorFlow*, etc.), the model’s language (*English*, *Arabic*, *etc.*), and license (*e.g. MIT*).
 
-![Untitled](images/Untitled.png)
+![](../../images/mode_card_tags.png)
 
 - At the right column, you can play with the model directly in the browser using the *Inference API*. GPT2 is a text generation model, so it will generate additional text given an initial input. Try typing something like, “It was a bright and sunny day.”
 
-![Untitled](images/Untitled%201.png)
+![](../../images/model_card_inference_api.png)
 
 - In the middle, you can go through the model card content. It has sections such as Intended uses & limitations, Training procedure, and Citation Info.
 
-![Untitled](images/Untitled%202.png)
+![](../../images/model_card_content.png)
 
 Where does all this data come from? At Hugging Face, everything is based in **Git repositories** and is open-sourced. You can click the “Files and Versions” tab, which will allow you to see all the repository files, including the model weights. The model card is a markdown file **([README.md](http://README.md))** which on top of the content contains metadata such as the tags.
 
-![Untitled](images/Untitled%203.png)
+![](../../images/model_card_git.png)
 
 Since all models are Git-based repositories, you get version control out of the box. Just as with GitHub, you can do things such as Git cloning, adding, committing, branching, and pushing. If you’ve never used Git before, we suggest the following [resource](https://learngitbranching.js.org/).
 
@@ -81,10 +81,10 @@ Since all models are Git-based repositories, you get version control out of the 
 So far, we’ve explored a single model. Let’s go wild! At the left of [https://huggingface.co/models](https://huggingface.co/models), you can filter for different things:
 
 - **Tasks:** There is support for dozens of tasks in different domains: Computer Vision, Natural Language Processing, Audio, and more. You can click the +13 to see all available tasks.
-    - **Libraries:** Although the Hub was originally for transformers models, the Hub has integration with dozens of libraries. You can find models of Keras, spaCy, allenNLP, and more.
+  - **Libraries:** Although the Hub was originally for transformers models, the Hub has integration with dozens of libraries. You can find models of Keras, spaCy, allenNLP, and more.
 - **Datasets:** The Hub also hosts thousands of datasets, as you’ll find more about later.
 
-![Untitled](images/Untitled%204.png)
+![](../../images/model_card_filters.png)
 
 - **Languages:** Many of the models on the Hub are NLP-related. You can find models for hundreds of languages, including low-resource languages.
 
@@ -100,6 +100,7 @@ Let’s go through the steps:
 
 1. Go to [huggingface.co/new](http://huggingface.co/new) to create a new model repository. The repositories you make can be either public or private.
 2. You start with a public repo that has a model card. You can upload your model either by using the Web UI or by doing it with Git. If you’ve never used Git before, we suggest just using the Web interface. You can click Add File and drag and drop the files you want to add. If you want to understand the complete workflow, let’s go with the Git approach.
+
     1. Install both git and git-lfs installed on your system.
         1. Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
         2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). Large files need to be uploaded with Git LFS.  Git does not work well once your files are above a few megabytes, which is frequent in ML. ML models can be up to gigabytes or terabytes! 🤯
@@ -144,10 +145,9 @@ Let’s go through the steps:
     git push
     ```
 
-
 And we're done! You can check your repository with all the recently added files!
 
-![Untitled](images/Untitled%205.png)
+![](../../images/model_card_updated_repo.png)
 
 The UI allows you to explore the model files and commits and to see the diff introduced by each commit.
 
@@ -174,7 +174,7 @@ Wait...datasets?
 
 ## Datasets
 
-With ML pipelines, you usually have a dataset  to train the model. The Hub hosts around 3000 datasets that are open-sourced and free to use in multiple domains. On top of it, the open-source `datasets` [library](https://huggingface.co/docs/datasets/) allows the easy use of these datasets, including huge ones, using very convenient features such as streaming. This lab won't go through the library, but it does explain how to explore them.
+With ML pipelines, you usually have a dataset to train the model. The Hub hosts around 3000 datasets that are open-sourced and free to use in multiple domains. On top of it, the open-source `datasets` [library](https://huggingface.co/docs/datasets/) allows the easy use of these datasets, including huge ones, using very convenient features such as streaming. This lab won't go through the library, but it does explain how to explore them.
 
 Similar to models, you can head to [https://hf.co/datasets](https://hf.co/datasets). At the left, you can find different filters based on the task, license, and size of the dataset.
 
@@ -182,17 +182,15 @@ Let’s explore the [GLUE](https://huggingface.co/datasets/glue) dataset, which 
 
 - Similar to model repositories, you have a dataset card that documents the dataset. If you scroll down a bit, you will find things such as the summary, the structure, and more.
 
-![Untitled](images/Untitled%206.png)
+![](../../images/datasets_card.png)
 
 - At the top, you can explore a slice of the dataset directly in the browser. The GLUE dataset is divided into multiple sub-datasets (or subsets) that you can select, such as COLA and QNLI.
 
-    ![Untitled](images/Untitled%207.png)
+  ![](../../images/datasets_slices.png)
 
 - At the right of the dataset card, you can see a list of models trained on this dataset.
 
-
-
-![Untitled](images/Untitled%208.png)
+![](../../images/datasets_models_trained.png)
 
 **Challenge 6**. Search for the Common Voice dataset. Answer these questions:
 
@@ -220,5 +218,4 @@ There are Open-Source Python frameworks such as Gradio and Streamlit that allow 
 >
 > ***Duration: 20-40 minutes***
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
->
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
