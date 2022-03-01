@@ -52,21 +52,21 @@ La interfaz tiene muchos componentes así que vamos a repasarlos:
 
 - En la parte superior puede encontrar diferentes **etiquetas** para cosas como la tarea (_generación de texto, clasificación de imágenes, etc._), frameworks (_PyTorch, TensorFlow, etc._), el idioma del modelo (_inglés, árabe, etc._) y licencia (_por ejemplo, MIT_).
 
-![Untitled](../../images/mode_card_tags.png)
+![](../../images/mode_card_tags.png)
 
 - En la columna de la derecha, puede jugar con el modelo directamente en el navegador utilizando el API de Inferencia. GPT2 es un modelo de generación de texto, por lo que generará texto adicional dada una entrada inicial. Intente escribir algo como "It was a bright and sunny day". Este modelo está en inglés pero también puede probar con los existentes en español.
 
-![Untitled](../../images/model_card_inference_api.png)
+![](../../images/model_card_inference_api.png)
 
 - En el medio, puede revisar el contenido de la tarjeta modelo. Tiene secciones como usos previstos y limitaciones, procedimiento de entrenamiento e Información de citas.
 
-![Untitled](../../images/model_card_content.png)
+![](../../images/model_card_content.png)
 
 ¿De dónde vienen todos estos datos? En Hugging Face todo se basa en **repositorios de Git** y es de código abierto. Puede hacer clic en la pestaña "Files and Versions" que le permitirá ver todos los archivos del repositorio incluidos los pesos del modelo.
 
 La tarjeta modelo es un archivo Markdown ([README.md](http://readme.md/)) que, además del contenido, contiene metadatos como las etiquetas.
 
-![Untitled](../../images/model_card_git.png)
+![](../../images/model_card_git.png)
 
 Dado que todos los modelos son repositorios basados en Git, obtiene el control de versiones listo para usar. Al igual que con GitHub, puede aplicar funciones de Git como cloning, adding, committing, branching y pushing. Si nunca ha usado Git antes, le sugerimos el siguiente [recurso](https://learngitbranching.js.org/).
 
@@ -83,7 +83,7 @@ Hasta ahora, hemos explorado un solo modelo. ¡Vamos por más! A la izquierda de
   - **Bibliotecas** Aunque el Hub fue originalmente para modelos de transformers, el Hub tiene integración con docenas de bibliotecas. Puede encontrar modelos de Keras, spaCy, allenNLP y más.
 - **Datasets:** El Hub también alberga miles de datasets, sobre los que encontrará más información más adelante.
 
-![Untitled](../../images/model_card_filters.png)
+![](../../images/model_card_filters.png)
 
 - **Languages**: Muchos de los modelos del Hub están relacionados con el Procesamiento del Lenguaje Natural (PLN). Puede encontrar modelos para cientos de idiomas, incluidos idiomas de bajos recursos.
 
@@ -149,7 +149,7 @@ git push
 
 ¡Y hemos terminado! ¡Puede consultar su repositorio con todos los archivos agregados!
 
-![Untitled](../../images/model_card_updated_repo.png)
+![](../../images/model_card_updated_repo.png)
 
 La interfaz de usuario le permite explorar los archivos del modelo y los commits. Puede ver la diferencia introducida por cada commit.
 
@@ -184,15 +184,15 @@ Exploremos el dataset [GLUE](https://huggingface.co/datasets/glue); un dataset f
 
 - De manera similar a los repositorios de modelos, tiene una tarjeta de datasets que documenta el dataset. Si se desplaza un poco hacia abajo, encontrará cosas como el resumen, la estructura y más.
 
-![Untitled](../../images/datasets_card.png)
+![](../../images/datasets_card.png)
 
 - En la parte superior puede explorar una porción del Su modelo ahora aparecerá cuando busque modelos de clasificación de texto en español. El modelo también aparecerá al mirar el dataset. directamente en el navegador. El dataset de GLUE se divide en varios subdatasets que puede seleccionar, como COLA y QNLI.
 
-  ![Untitled](../../images/datasets_slices.png)
+  ![](../../images/datasets_slices.png)
 
 - A la derecha de la tarjeta del dataset puede ver una lista de modelos entrenados con este dataset.
 
-![Untitled](../../images/datasets_models_trained.png)
+![](../../images/datasets_models_trained.png)
 
 **Reto 6**. Busque el dataset de Common Voice. Responda estas preguntas:
 

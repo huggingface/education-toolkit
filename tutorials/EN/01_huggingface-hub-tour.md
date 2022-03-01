@@ -55,19 +55,19 @@ The interface has many components, so let’s go through them:
 
 - At the top, you can find different **tags** for things such as the task (*text generation, image classification*, etc.), frameworks (*PyTorch*, *TensorFlow*, etc.), the model’s language (*English*, *Arabic*, *etc.*), and license (*e.g. MIT*).
 
-![Untitled](../../images/mode_card_tags.png)
+![](../../images/mode_card_tags.png)
 
 - At the right column, you can play with the model directly in the browser using the *Inference API*. GPT2 is a text generation model, so it will generate additional text given an initial input. Try typing something like, “It was a bright and sunny day.”
 
-![Untitled](../../images/model_card_inference_api.png)
+![](../../images/model_card_inference_api.png)
 
 - In the middle, you can go through the model card content. It has sections such as Intended uses & limitations, Training procedure, and Citation Info.
 
-![Untitled](../../images/model_card_content.png)
+![](../../images/model_card_content.png)
 
 Where does all this data come from? At Hugging Face, everything is based in **Git repositories** and is open-sourced. You can click the “Files and Versions” tab, which will allow you to see all the repository files, including the model weights. The model card is a markdown file **([README.md](http://README.md))** which on top of the content contains metadata such as the tags.
 
-![Untitled](../../images/model_card_git.png)
+![](../../images/model_card_git.png)
 
 Since all models are Git-based repositories, you get version control out of the box. Just as with GitHub, you can do things such as Git cloning, adding, committing, branching, and pushing. If you’ve never used Git before, we suggest the following [resource](https://learngitbranching.js.org/).
 
@@ -84,7 +84,7 @@ So far, we’ve explored a single model. Let’s go wild! At the left of [https:
   - **Libraries:** Although the Hub was originally for transformers models, the Hub has integration with dozens of libraries. You can find models of Keras, spaCy, allenNLP, and more.
 - **Datasets:** The Hub also hosts thousands of datasets, as you’ll find more about later.
 
-![Untitled](../../images/model_card_filters.png)
+![](../../images/model_card_filters.png)
 
 - **Languages:** Many of the models on the Hub are NLP-related. You can find models for hundreds of languages, including low-resource languages.
 
@@ -147,7 +147,7 @@ Let’s go through the steps:
 
 And we're done! You can check your repository with all the recently added files!
 
-![Untitled](../../images/model_card_updated_repo.png)
+![](../../images/model_card_updated_repo.png)
 
 The UI allows you to explore the model files and commits and to see the diff introduced by each commit.
 
@@ -182,15 +182,15 @@ Let’s explore the [GLUE](https://huggingface.co/datasets/glue) dataset, which 
 
 - Similar to model repositories, you have a dataset card that documents the dataset. If you scroll down a bit, you will find things such as the summary, the structure, and more.
 
-![Untitled](../../images/datasets_card.png)
+![](../../images/datasets_card.png)
 
 - At the top, you can explore a slice of the dataset directly in the browser. The GLUE dataset is divided into multiple sub-datasets (or subsets) that you can select, such as COLA and QNLI.
 
-  ![Untitled](../../images/datasets_slices.png)
+  ![](../../images/datasets_slices.png)
 
 - At the right of the dataset card, you can see a list of models trained on this dataset.
 
-![Untitled](../../images/datasets_models_trained.png)
+![](../../images/datasets_models_trained.png)
 
 **Challenge 6**. Search for the Common Voice dataset. Answer these questions:
 

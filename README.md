@@ -10,11 +10,11 @@ In addition to the tutorials, we also share other resources to go deeper into ML
 
 ## 🌎 Languages and translations
 
-|     Language     |                                           Source                                            | Authors                                                                                                                         | Contributors                                                                                   |
-| :--------------: | :-----------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-|     English      | [ `tutorials/EN` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/EN) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero)  |                                                                                                |
-|     Spanish      | [ `tutorials/ES` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES) | @ [lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero) | @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
-| Portuguese (WIP) | [ `tutorials/PT` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT) |                                                                                                                                 |                                                                                                |
+| Language | Source | Contributors |
+|:---:|:---:|---|
+| English | [ `tutorials/EN` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/EN ) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero) |
+| Spanish | [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES ) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero), @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
+| Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) |  |
 
 ### Translating the toolkit into your language
 
@@ -49,11 +49,9 @@ Here, `LANG-ID` should be one of the ISO 639-1 or ISO 639-2 language codes -- se
 
 Now comes the fun part - translating the text in the `md` and `ipynb` files!
 
-> 🙋 If you'd like others to help you with the translation, you can either [open an issue](https://github.com/huggingface/education-toolkit/issues) or tag @lewtun on Twitter to gain some visibility.
+> 🙋 If you'd like others to help you with the translation, you can either [open an issue](https://github.com/huggingface/education-toolkit/issues) or tag @[LepercqViolette](https://twitter.com/LepercqViolette)
+ on Twitter to gain some visibility.
 
-## 🙌 Acknowledgements
-
-The structure of this repo and README are inspired by the wonderful [Advanced NLP with spaCy](https://github.com/ines/spacy-course) course and the [Hugging Face](https://github.com/huggingface/course) course.
 
 <aside>
 ✉️ If you have any questions, please contact violette@huggingface.co!

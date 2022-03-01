@@ -4,7 +4,7 @@
 
 👋 **Welcome!**
 
-We’ve assembled a toolkit that university instructors can use to easily prepare labs, homework, or classes. The content is designed in a self-contained way such that it can easily be incorporated into the existing curriculum. This content is **free** and uses widely known Open Source technologies (`transformers`, `gradio`, etc).
+We’ve assembled a toolkit that university instructors can use to easily prepare labs, homework, or classes. The content is self-contained so that it can be easily incorporated into an existing curriculum. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
 
 Alternatively, you can request for someone on the Hugging Face team to run the tutorials for your class via the [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiative!
 
