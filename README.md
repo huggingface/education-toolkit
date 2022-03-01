@@ -23,7 +23,7 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 > - Learn how to contribute and work collaboratively in your ML workflows
 >
 > ***Duration: 20-40 minutes***
-> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851)
+> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing)
 >
 
 ### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
@@ -37,7 +37,7 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 >
 > ***Duration: 20-40 minutes***
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing)
 >
 
 ### 3️⃣ Getting Started with Transformers
