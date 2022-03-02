@@ -34,7 +34,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 20-40 minutos_**
 >
-> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
+> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
 
 ### **3️⃣ Primeros pasos con los Transformers**
 
@@ -48,7 +48,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 30-45 minutos_**
 >
-> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 Pronto: Clic aquí para acceder al tutorial
 
 ## ¡Otros recursos para aprender a su manera!
 
