@@ -21,7 +21,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 20-40 minutos_**
 >
-> [Un recorrido por el Hub de Hugging Face](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES/01_tour_hub_de_huggingface.md)
+> [Clic aquí para acceder al tutorial](https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES/01_tour_hub_de_huggingface.md) o 👩‍🏫 [a las diapositivas (en inglés)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### **2️⃣ Cree y aloje demos de Machine Learning con Gradio y Hugging Face**
 
@@ -34,7 +34,7 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 >
 > **_Duración: 20-40 minutos_**
 >
-> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/ES/02_ml-demos-con-gradio.ipynb)
+> 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/ES/02_ml-demos-con-gradio.ipynb) o 👩‍🏫 [a las diapositivas (en inglés)](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### **3️⃣ Primeros pasos con los Transformers**
 
