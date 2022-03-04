@@ -19,7 +19,7 @@ Puoi trovare tutti i tutorial e le risorse che abbiamo accolto [qui](https://www
 Obiettivi di apprendimento:
 
 - Conoscere ed esplorare gli oltre 30.000 modelli condivisi su Hub.
-- Apprendere modi efficienti per trovare modelli e set di dati adatti al tuo obiettivo.
+- Apprendere modi efficienti per trovare modelli e set di dati adatti al tuo task.
 - Apprendere come contribuire e lavorare in modo collaborativo.
 - Esplorare le demo delle tecniche di Apprendimento Automatico (Machine Learning) create dalla comunità.
 

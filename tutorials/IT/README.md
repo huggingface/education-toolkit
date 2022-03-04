@@ -2,92 +2,93 @@
 
 <aside>
 
-👋 **Welcome!**
+👋 **Benvenute e benvenuti!**
 
-We’ve assembled a toolkit that university instructors can use to easily prepare labs, homework, or classes. The content is self-contained so that it can be easily incorporated into an existing curriculum. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
+Abbiamo raccolto un set di strumenti che possono essere usati dagli insegnanti universitari per preparare laboratori o lezioni. Il materiale è auto-contenuto in modo tale che possa essere facilmente inserito in un programma esistente. Il contenuto è **gratuito** e usa tecnologie open-source molto note (`transformers`, `gradio`, etc).
 
-Alternatively, you can request for someone on the Hugging Face team to run the tutorials for your class via the [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiative!
 
-Apart from tutorials, we also share other resources to go further into ML or that can assist in designing course content.
+In alternativa, puoi fare richiesta affinche qualcuno del team di Hugging Face svolga i tutorial all'interno del tuo corso tramite le iniziative di [ML Demo-cratization Tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)
+
+In aggiunta ai tutorial, condividiamo anche altre risorse per approfondire il Machine Learning o che possono aiutare a progettare il contenuto del toolkit. 
 
 </aside>
 
-## **Our Tutorials Catalog**
+## **Il catalogo dei corsi**
 
-### 1️⃣ A Tour through the Hugging Face Hub
+### 1️⃣ Un tour attraverso l'Hub di Hugging Face
 
-> In this tutorial, you get to:
+> In questo tutorial potrai:
 >
-> - Explore the over 30,000 models shared in the Hub.
-> - Learn efficient ways to find the right model and datasets for your own task.
-> - Learn how to contribute and work collaboratively in your ML workflows
+> - Esplorare gli oltre 30.000 modelli condivisi su Hub.
+> - Apprendere modi efficienti per trovare modelli e set di dati adatti al tuo task.
+> - Apprendere come contribuire e lavorare in modo collaborativo nei tuoi flussi di lavoro di Machine Learning (ML)
 >
-> **_Duration: 20-40 minutes_**
+> **_Durata: 20-40 minuti_**
 >
-> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [clicca qui per accedere al tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
-### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
+### 2️⃣ Costruire e pubblicare una demo di apprendimento automatico con Gradio & Hugging Face
 
-> In this tutorial, you get to:
+> In questo tutorial potrai:
 >
-> - Explore ML demos created by the community.
-> - Build a quick demo for your machine learning model in Python using the `gradio` library
-> - Host the demos for free with Hugging Face Spaces
-> - Add your demo to the Hugging Face org for your class or conference
+> - Esplorare le demo di ML create dalla comunità.
+> - Costruire una rapida demo per il tuo modello di apprendimento automatico in Python usando la libreria `gradio`.
+> - Ospitare le demo gratuitamente con Hugging Face Spaces
+> - Aggiungere la tua demo all'organizzazione Hugging Face della la tua classe o conferenza
 >
-> **_Duration: 20-40 minutes_**
+> **_Durata: 20-40 minuti_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
-### 3️⃣ Getting Started with Transformers
+### 3️⃣ Come iniziare con i Transformers
 
-> In this tutorial, you get to:
+> In questo tutorial apprenderai:
 >
-> - Transformer neural networks can be used to tackle a wide range of tasks in natural language processing and beyond.
-> - Transfer learning allows one to adapt Transformers to specific tasks.
-> - The `pipeline()` function from the `transformers` library can be used to run inference with models from the [Hugging Face Hub](https://huggingface.co/models).
+> - Le reti neurali basate su Transformer possono essere utilizzate per affrontare una vasta gamma di compiti nell'elaborazione del linguaggio naturale (NLP) e non solo.
+> - Il Transfer learning permette di adattare i Transformer a compiti specifici.
+> - La funzione `pipeline()` presente nella libreria `transformers` può essere usata per fare inferenza con i modelli presenti nell'[Hugging Face Hub](https://huggingface.co/models).
 >
-> This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
+> Questo tutorial è basato sul primo presente nel nostro libro di O'Reilly *[Natural Language Processing with Transformers](https://transformersbook.com/)* - dagli un'occhiata se vuoi approfondire l'argomento!
 >
-> **_Duration: 30-45 minutes_**
+> **_Durata: 30-45 minuti_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
-## **Other resources to learn your way!**
+## **Altre risorse per imparare in autonomia!**
 
-### **The 🤗 Course**
+### **Il corso di 🤗**
 
-We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+Forniamo un corso (gratuito e senza pubblicità) che ti insegna l'elaborazione del linguaggio naturale (NLP) utilizzando le librerie dell'ecosistema **[Hugging Face](https://huggingface.co/)**.
 
-👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
+👉 [clicca qui per accedere al corso di 🤗 ](https://huggingface.co/course/chapter1/1)
 
 <aside>
-💡 This course:
+💡 Questo corso:
 
-- Requires good knowledge of Python
-- Is better taken after an introductory deep learning course, such as **[fast.ai’s](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** or one of the programs developed by **[DeepLearning.AI](https://www.deeplearning.ai/)**
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
+- Richiede una buona conoscenza di Python
+- Risulta più facile da comprendere dopo un corso introduttivo al deep learning, come **[fast.ai's](https://www.fast.ai/)** ** **[Practical Deep Learning for Coders](https://course.fast.ai/)** o uno dei corsi - sviluppati da **[DeepLearning.AI](https://www.deeplearning.ai/)**
+- Non si aspetta che tu conosca **[PyTorch](https://pytorch.org/)** o **[TensorFlow](https://www.tensorflow.org/)**, anche se un po' di familiarità con uno di questi potrebbe aiutare
 </aside>
 
-### **The 🤗 Book**
+### **Il libro di 🤗**
 
 <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
 
-Released February 2022
+Rilasciato a Febbraio 2022
 
-From experts at Hugging Face, learn all about Transformers and their applications to a wide range of NLP tasks.
+Dagli esperti di Hugging Face, impara tutto sui Transformers e le loro applicazioni a tanti task di NLP.
 
-👉 [click here to visit the book’s website](https://transformersbook.com/)
+👉 [clicca qui per visitare il sito del libro](https://transformersbook.com/)
 
 <aside>
-💡 This book:
+💡 Questo libro:
 
-- Is written for data scientists and machine learning engineers who may have heard about the recent breakthroughs involving transformers, but are lacking an in-depth guide to help them adapt these models to their own use cases.
-- Assumes you have some practical experience with training models on GPUs.
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
+- È scritto per i data scientists e gli ingegneri dell'apprendimento automatico che possono aver sentito parlare delle recenti scoperte che coinvolgono i transformers, ma a cui manca una guida approfondita che li aiuti ad adattare questi modelli ai loro casi d'uso.
+- Presume che tu abbia un po' di esperienza pratica con l'addestramento di modelli su GPU.
+- Non si aspetta che tu conosca **[PyTorch](https://pytorch.org/)** o **[TensorFlow](https://www.tensorflow.org/)**, anche se un po' di familiarità con uno di questi potrebbe aiutare
 </aside>
 
 <aside>
-✉️ If you have any questions, please contact violette@huggingface.co!
+✉️ Se hai qualche domanda, contatta violette@huggingface.co!
 
 </aside>
