@@ -73,10 +73,11 @@ Da dove vengono tutti questi dati? A Hugging Face, tutto è basato su **reposito
 Poiché tutti i modelli sono contenuti in delle repository basate su Git, esse saranno automaticamente sottoposte al controllo delle versioni. Proprio come con GitHub, puoi fare cose come clonare `git clone`, aggiungere `git add`, committare `git commit`, ramificare `git fork` e pushare `git push`. Se non hai mai usato Git prima, ti suggeriamo di dare un'occhiata [qui](https://learngitbranching.js.org/).
 
 
-**Challenge 1**. Open the `config.json` file of the GPT2 repository. The config file contains hyperparameters as well as useful information for loading the model. From this file, answer:
+**Sfida 1**. Apri il file `config.json` del repository GPT2. Il file di configurazione contiene gli iperparametri e altre informazioni utili per caricare il modello. Utilizzando le informazioni contenute in questo file, rispondi alle domande seguenti:
 
-- Which is the activation function?
-- What is the vocabulary size?
+- Qual è la funzione di attivazione?
+- Qual è la dimensione del vocabolario?
+
 
 ## **Exploring Models**
 
