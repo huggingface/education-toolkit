@@ -14,7 +14,7 @@ Puoi trovare tutti i tutorial e le risorse che abbiamo accolto [qui](https://www
 
 **Durata:** da 20 a 40 minuti
 
-**Obiettivo:** Impara come utilizzare in modo efficiente la [piattaforma Hub] gratuita (http://hf.co) per di collaborare nell'ecosistema e all'interno dei team in progetti di Machine Learning (ML).
+**Obiettivo:** Impara come utilizzare in modo efficiente la [piattaforma Hub](https://huggingface.co/) gratuita (http://hf.co) per di collaborare nell'ecosistema e all'interno dei team in progetti di Machine Learning (ML).
 
 Obiettivi di apprendimento:
 
