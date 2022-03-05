@@ -79,42 +79,44 @@ Poiché tutti i modelli sono contenuti in delle repository basate su Git, esse s
 - Qual è la dimensione del vocabolario?
 
 
-## **Exploring Models**
+## **Esplorare i modelli**
 
-So far, we’ve explored a single model. Let’s go wild! At the left of [https://huggingface.co/models](https://huggingface.co/models), you can filter for different things:
+Finora abbiamo esplorato un singolo modello. Scateniamoci! A sinistra di [https://huggingface.co/models](https://huggingface.co/models), puoi usare diversi tipi di filtri:
 
-- **Tasks:** There is support for dozens of tasks in different domains: Computer Vision, Natural Language Processing, Audio, and more. You can click the +13 to see all available tasks.
-  - **Libraries:** Although the Hub was originally for transformers models, the Hub has integration with dozens of libraries. You can find models of Keras, spaCy, allenNLP, and more.
-- **Datasets:** The Hub also hosts thousands of datasets, as you’ll find more about later.
+- **Task:** C'è il supporto per decine di task in diversi domini: Computer Vision, Natural Language Processing, Audio, e tanto altro. Puoi cliccare su +13 per vedere tutti i task disponibili.
+  - **Librerie:** Anche se l'Hub è stato ideato originariamente per i transformers, l'Hub si integra con con decine di librerie. Puoi trovare modelli di Keras, spaCy, allenNLP, e altro ancora.
+- **Datasets:** L'Hub ospita anche migliaia di datasets, come vedrete più avanti.
 
 ![](../../images/model_card_filters.png)
 
-- **Languages:** Many of the models on the Hub are NLP-related. You can find models for hundreds of languages, including low-resource languages.
+- **Lingue:** Molti dei modelli su Hub sono legati all'NLP. Puoi trovare modelli per centinaia di lingue, compresi quelli con poche risorse.
 
-**Challenge 2**. How many token classification models are there in English?
+**Sfida 2**. Quanti modelli per la classificazione dei token ci sono in inglese?
 
-**Challenge 3**. If you had to pick a Spanish model for Automatic Speech Recognition, which would you choose? (It can be any model for this task and language)
+**Sfida 3**. Se dovessi scegliere un modello spagnolo per il riconoscimento vocale automatico, quale sceglieresti? (Può essere qualsiasi modello per questo task e lingua)
 
-## Adding a model
 
-Let’s say you want to upload a model to the Hub. This model could be a model of any ML library: Scikit-learn, Keras, Transformers, etc.
+## Aggiungere un modello
 
-Let’s go through the steps:
+Supponiamo che tu voglia caricare un modello su Hub. Questo modello potrebbe essere un modello di qualsiasi libreria ML: Scikit-learn, Keras, Transformers, ecc.
 
-1. Go to [huggingface.co/new](http://huggingface.co/new) to create a new model repository. The repositories you make can be either public or private.
-2. You start with a public repo that has a model card. You can upload your model either by using the Web UI or by doing it with Git. If you’ve never used Git before, we suggest just using the Web interface. You can click Add File and drag and drop the files you want to add. If you want to understand the complete workflow, let’s go with the Git approach.
+Vediamo i passi da fare:
 
-    1. Install both git and git-lfs installed on your system.
+1. Vai su [huggingface.co/new](http://huggingface.co/new) per creare una nuova repository del modello. Le repository possono essere pubbliche o private.
+1. Inizia con una repository pubblica contenente una scheda descrittiva del modello. Puoi caricare il tuo modello usando sia l'interfaccia web che Git. Se non hai mai usato Git prima, ti suggeriamo di usare solo l'interfaccia web. Puoi cliccare su _Add File_ e trascinare i file che vuoi aggiungere. Se vuoi comprendere meglio il flusso di lavoro, proviamo a vedere i passi usando Git.
+
+
+    1. Installa sia `git` che `git-lfs` sul tuo PC.
         1. Git: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-        2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). Large files need to be uploaded with Git LFS.  Git does not work well once your files are above a few megabytes, which is frequent in ML. ML models can be up to gigabytes or terabytes! 🤯
+        2. Git-lfs: [https://git-lfs.github.com/](https://git-lfs.github.com/). I file di grandi dimensioni devono essere caricati con Git LFS. Git non funziona bene con i file che superano qualche megabyte, il che è frequente in ML. I modelli possono arrivare fino a gigabyte o terabyte! 🤯
     2. Clone the repository you just created
 
         ```python
         git clone https://huggingface.co/<your-username>/<your-model-id>
         ```
 
-    3. Go to the directory and initialize Git LFS
-        1. Optional. We already provide a list of common file extensions for the large files in `.gitattributes`, If the files you want to upload are not included in the `.gitattributes` file, you might need as shown here: You can do so with
+    3. Vai alla cartella e inizializza Git LFS
+        1. Opzionale. Forniamo già una lista di estensioni di file comuni per i file di grandi dimensioni in `.gitattributes`, Se i file che vuoi caricare non sono inclusi nel file `.gitattributes`, potresti aver bisogno di includerli come mostrato qui: Puoi farlo con
 
             ```python
             git lfs track "*.your_extension"
@@ -124,12 +126,12 @@ Let’s go through the steps:
              git lfs install
             ```
 
-    4. Add your files to the repository. The files depend on the framework/libraries you’re using. Overall, what is important is that you provide all artifacts required to load the model. For example:
-        1. For TensorFlow, you might want to upload a SavedModel or `h5` file.
-        2. For PyTorch, usually, it’s a `pytorch_model.bin`.
-        3. For Scikit-Learn, it’s usually a `joblib` file.
+    4. Aggiungi i tuoi file alla repository. I file dipendono dal framework/librerie che stai usando. Nel complesso, ciò che è importante è che tu fornisca tutti gli artefatti richiesti per caricare il modello. Per esempio:
+        1. Per TensorFlow, potresti voler caricare un file SavedModel or `h5` file.
+        2. Per PyTorch, di solito, è un `pytorch_model.bin`.
+        3. Per Scikit-Learn, di solito è un file `joblib` file.
 
-        Here is an example in Python saving a Scikit-Learn model file.
+        Ecco un esempio in Python che salva un file modello di Scikit-Learn.
 
         ```python
         from sklearn import linear_model
@@ -140,7 +142,7 @@ Let’s go through the steps:
         dump(reg, 'model.joblib')
         ```
 
-    5. Commit and push your files (make sure the saved file is within the repository)
+    5. Fai il commit e push dei tuoi file (assicurati che il file salvato sia all'interno del repository)
 
     ```python
     git add .
@@ -148,77 +150,78 @@ Let’s go through the steps:
     git push
     ```
 
-And we're done! You can check your repository with all the recently added files!
+Abbiamo finito! Puoi vedere pubblicata la tua repository con tutti i file aggiunti di recente!
 
 ![](../../images/model_card_updated_repo.png)
 
-The UI allows you to explore the model files and commits and to see the diff introduced by each commit.
+L'interfaccia grafica permette di esplorare i file del modello, i commit e di vedere le differenze tra un committ e l'altro.
 
-**Challenge 4**. It’s your turn! Upload a dummy model of the library of your choice.
+**Challenge 4**. È il tuo turno! Carica un modello fittizio di una libreria di tua scelta.
 
-Now that the model is in the Hub, others can find them! You can also collaborate with others easily by creating an organization. Hosting through the Hub allows a team to update repositories and do things you might be used to, such as working in branches and working collaboratively. The Hub also enables versioning in your models: if a model checkpoint is suddenly broken, you can always head back to a previous version.
+Ora che il modello è nell'Hub, gli altri possono vederlo! Puoi anche collaborare con altri facilmente creando un'organizzazione. Ospitare i tuoi modelli nell'Hub permette ad un team di aggiornare i repository e fare cose che potresti già conoscere, come lavorare usando diverse branches e lavorare in modo collaborativo. L'Hub permette anche il versioning nei tuoi modelli: se un checkpoint del modello non funziona (per qualche motivo), puoi sempre tornare indietro ad una versione precedente.
 
-At the top of the `README`, you can find some metadata. You will only find the license right now, but you can add more things. Let’s try some of it:
+In cima al `README`, puoi trovare alcuni metadati. Per ora troverete solo la licenza, ma potete aggiungere altre cose. Proviamone alcune:
 
 ```yaml
  tags:
-- es       # This will automatically be detected as a language tag.
-- bert     # You can have additional tags for filtering
-- text-classification # This will automatically be detected as a task tag.
+- es       # Questo verrà rilevato automaticamente come un tag di lingua (es - Spagnolo).
+- bert     # Puoi avere tag aggiuntivi per i filtri
+- text-classification # Questo verrà rilevato automaticamente come un tag relativo al task.
 datasets:
-- llamas # This will link to a dataset on the Hub if it exists.
+- llamas # Questo si collegherà a un set di dati su Hub, se esiste.
 ```
 
-**Challenge 5**. Using the [documentation](https://huggingface.co/docs/hub/model-repos#how-are-model-tags-determined), change the default example in the widget.
+**Challenge 5**. Usando la [documentazione](https://huggingface.co/docs/hub/model-repos#how-are-model-tags-determined), cambia l'esempio predefinito nel widget.
 
-The metadata allows people to discover your model quickly. Your model will now show up when you search for text classification models in Spanish. The model will also show up when looking at the dataset.
+I metadati permettono alle altre persone di trovare rapidamente il tuo modello. Esso apparirà quando si cercano modelli di classificazione del testo in spagnolo. Il modello apparirà anche sulla pagina del dataset utilizzato.
 
-Wait...datasets?
+Aspetta...datasets?
 
 ## Datasets
 
-With ML pipelines, you usually have a dataset to train the model. The Hub hosts around 3000 datasets that are open-sourced and free to use in multiple domains. On top of it, the open-source `datasets` [library](https://huggingface.co/docs/datasets/) allows the easy use of these datasets, including huge ones, using very convenient features such as streaming. This lab won't go through the library, but it does explain how to explore them.
+Con le pipeline di ML, di solito si ha un dataset per addestrare il modello. L'Hub ospita circa 3000 dataset che sono open-source, gratuiti da usare e afferenti a diversi domini. Inoltre, la libreria open-source [`datasets`](https://huggingface.co/docs/datasets/) permette di utilizzarli facilmente, compresi quelli di grandi dimensioni, utilizzando funzionalità molto convenienti come lo streaming. Questo laboratorio non si occupa della libreria, ma spiega come esplorarli.
 
-Similar to models, you can head to [https://hf.co/datasets](https://hf.co/datasets). At the left, you can find different filters based on the task, license, and size of the dataset.
+In maniera del tutto simile ai modelli, puoi andare su [https://hf.co/datasets](https://hf.co/datasets). A sinistra, puoi trovare diversi filtri basati sui task, la licenza e la dimensione del dataset.
 
-Let’s explore the [GLUE](https://huggingface.co/datasets/glue) dataset, which is a famous dataset used to test the performance of NLP models.
+Esploriamo il dataset [GLUE](https://huggingface.co/datasets/glue), che è un famoso dataset utilizzato per testare le prestazioni dei modelli NLP.
 
-- Similar to model repositories, you have a dataset card that documents the dataset. If you scroll down a bit, you will find things such as the summary, the structure, and more.
+- Come con le repository dei modelli, hai una scheda del dataset che documenta il dataset. Se scorri un po' verso il basso, troverai altre cose come il riassunto, la struttura e altro.
 
 ![](../../images/datasets_card.png)
 
-- At the top, you can explore a slice of the dataset directly in the browser. The GLUE dataset is divided into multiple sub-datasets (or subsets) that you can select, such as COLA and QNLI.
+- Nella parte superiore, è possibile esplorare una parte del dataset direttamente nel browser. Il dataset GLUE è diviso in più sotto-datasets (o sottoinsiemi) che puoi selezionare, come COLA e QNLI.
 
   ![](../../images/datasets_slices.png)
 
-- At the right of the dataset card, you can see a list of models trained on this dataset.
+- A destra della scheda del dataset, puoi vedere una lista di modelli addestrati su questo dataset.
 
 ![](../../images/datasets_models_trained.png)
 
-**Challenge 6**. Search for the Common Voice dataset. Answer these questions:
+**Challenge 6**. Cerca il set di dati Common Voice. Rispondi a queste domande:
 
-- What tasks can the Common Voice dataset be used to?
-- How many languages are covered in this dataset?
-- Which are the dataset splits?
+- Per quali task può essere usato Common Voice?
+- Quante lingue sono supportate da questo dataset?
+- Quali sono le suddivisioni (split) del dataset?
 
-## ML Demos
+## ML Demo
 
-Sharing your models and datasets is great, but creating an interactive, publicly available demo is even cooler. Demos of models are an increasingly important part of the ecosystem. Demos allow:
+Condividere i propri modelli e set di dati è fantastico, ma creare una demo interattiva e disponibile al pubblico è ancora più bello. Le demo dei modelli sono una parte sempre più importante dell'ecosistema. Le demo permettono:
 
-- model developers to easily **present** their work to a wide audience, such as in stakeholder presentations, conferences, and course projects
-- to increase **reproducibility** in machine learning by lowering the barrier to test a model
-- to share with a non-technical audience **the impact of a model**
-- build a machine learning **portfolio**
+- gli sviluppatori di modelli possono facilmente **presentare** il loro lavoro a un vasto pubblico, come nelle presentazioni alle aziende, nelle conferenze e nei progetti di corsi universitari
+- aumentare la **riproducibilità** nell'apprendimento automatico facilitando il test di un modello
+- condividere con un pubblico non tecnico **l'impatto di un modello**
+- costruire un **portfolio** che mostra le proprie capacità con il machine learning
 
-There are Open-Source Python frameworks such as Gradio and Streamlit that allow building these demos very easily, and tools such as Hugging Face [Spaces](http://hf.co/spaces/launch) which allow to host and share them. As a follow-up lab, we recommend doing the **Build and Host Machine Learning Demos with Gradio & Hugging Face** tutorial.
+Ci sono framework Python Open-Source come Gradio e Streamlit che permettono di costruire queste demo molto facilmente. Strumenti come Hugging Face [Spaces](http://hf.co/spaces/launch) permettono di ospitarli e condividerli. Come laboratorio successivo, si consiglia di fare il tutorial **Costruire e ospitare demo di machine learning con Gradio e Hugging Face**.
 
-> In this tutorial, you get to:
+
+> In questo tutorial, potrai:
 >
-> - Explore ML demos created by the community.
-> - Build a quick demo for your machine learning model in Python using the `gradio` library
-> - Host the demos for free with Hugging Face Spaces
-> - Add your demo to the Hugging Face org for your class or conference
+> - Esplorare le demo di ML create dalla comunità.
+> - Costruire una rapida demo per il tuo modello di apprendimento automatico in Python usando la libreria `gradio`.
+> - Ospitare le demo gratuitamente con Hugging Face Spaces
+> - Aggiungere la tua demo all'organizzazione Hugging Face legata alla tua classe o conferenza
 >
-> ***Duration: 20-40 minutes***
+> ***Durata: 20-40 minuti***
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
+> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github.com/huggingface/education-toolkit/tree/main/tutorials/EN/02_ml-demos-with-gradio.ipynb)
