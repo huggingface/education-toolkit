@@ -4,11 +4,11 @@
 
 👋 **ようこそ!**
 
-大学教員向けに、教育用ツールキットを整備しました。実験の準備、課題、授業などにお役立てください。このコンテンツは外部非依存のため、容易に既存のカリキュラムに組み込むことが可能です。加えてこのコンテンツは無料で公開しており、transformers、gradioなどの有名なオープンソースライブラリを使用しています。
+大学教員向けに教育用ツールキットを整備しました。実験の準備、課題、授業などにお役立てください。このコンテンツは外部非依存のため、容易に既存のカリキュラムに組み込むことが可能です。加えてこのコンテンツは無料で公開しており、transformers、gradioなどの有名なオープンソースライブラリを使用しています。
 
 また、Hugging Faceのメンバーに授業内でのチュートリアル講義を依頼することも可能です。詳細は、[ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)をご参照ください。
 
-チュートリアルに加え、ここでは教材設計に役立つような機械学習のより深い内容を用意しています。
+チュートリアルに加え、ここでは教材設計に役立つような機械学習のより深いコンテンツを用意しています。
 
 </aside>
 
@@ -43,7 +43,7 @@
 > このチュートリアルでは:
 >
 > - Transformerモデルが自然言語処理において多様なタスクに適用可能であることを理解
-> - 転移学習を用いて特定のタスクにTransformerモデルを適応可能であることを理解
+> - 転移学習を用いて特定のタスクにTransformerモデルを適用可能であることを理解
 > - `transformers`ライブラリの`pipeline()`関数を用いて[Hugging Face Hub](https://huggingface.co/models)上のモデルの推論を実行できることを理解
 >
 > このチュートリアルは O'Reillyの本である *[Natural Language Processing with Transformers](https://transformersbook.com/)*を参考にしています。- この話題について深堀りしたい方はぜひチェックしてみてください。
@@ -87,6 +87,6 @@ Hugging Faceの専門家から、Transformersライブラリとその広範な�
 </aside>
 
 <aside>
-✉️ 質問がある方はこちらにご連絡ください。 violette@huggingface.co!
+✉️ 質問がある方はこちらにご連絡ください！ violette@huggingface.co 
 
 </aside>
