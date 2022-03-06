@@ -76,7 +76,7 @@
 
 Hugging Faceの専門家から、Transformersライブラリとその多様な応用先について学ぼう
 
-👉 [click here to visit the book’s website](https://transformersbook.com/)
+👉 [書籍のウェブサイトはこちら](https://transformersbook.com/)
 
 <aside>
 💡 この書籍における前提条件:
