@@ -74,7 +74,7 @@
 
 2022年2月出版
 
-Hugging Faceの専門家から、Transformersライブラリとその広範な応用先について学ぼう
+Hugging Faceの専門家から、Transformersライブラリとその多様な応用先について学ぼう
 
 👉 [click here to visit the book’s website](https://transformersbook.com/)
 
