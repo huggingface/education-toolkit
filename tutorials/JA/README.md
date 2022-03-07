@@ -24,7 +24,7 @@
 >
 > **_所要時間: 20-40 分_**
 >
-> 👉 [チュートリアルへのリンクはこちら](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing)
+> 👉 [チュートリアルへのリンクはこちら](https://huggingface2.notion.site/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing)
 
 ### 2️⃣ GradioとHugging Faceを用いた機械学習デモページの構築とホスティング
 > このチュートリアルでは:
