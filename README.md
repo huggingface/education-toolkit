@@ -15,6 +15,7 @@ In addition to the tutorials, we also share other resources to go deeper into ML
 | English | [ `tutorials/EN` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/EN ) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero) |
 | Spanish | [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES ) | @[lewtun](https://github.com/lewtun), @[abidlabs](https://github.com/abidlabs), @[osanseviero](https://github.com/osanseviero), @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
 | Japanese | [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA ) | @[Wataru-Nakata](https://github.com/Wataru-Nakata) |
+| Turkish (TR) | [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR ) | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/)  |
 | Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) |  |
 
 ### Translating the toolkit into your language
