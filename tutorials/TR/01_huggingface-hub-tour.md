@@ -7,7 +7,7 @@
 
 Alternatif olarak, Hugging Face ekibinden birinden [ML demo.cratization turu](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) girişimi aracılığıyla sınıfınız için eğiticileri çalıştırmasını isteyebilirsiniz!
 
-Bir araya getirdiğimiz tüm eğitimleri ve kaynakları [burada](https://www.notion.so/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599) bulabilirsiniz.
+Derlediğimiz tüm eğitimleri ve kaynakları [burada](https://www.notion.so/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599) bulabilirsiniz.
 
 </aside>
 
