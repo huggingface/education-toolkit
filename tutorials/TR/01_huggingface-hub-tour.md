@@ -3,7 +3,7 @@
 
 💡 **Hoş Geldiniz!**
 
-Üniversite eğitmenlerinin kolayca laboratuvar, ödev veya ders hazırlamak için kullanabilecekleri bir araç seti oluşturduk. İçerik, mevcut müfredata kolayca dahil edilebilecek ve kendi kendine yetebilecek şekilde tasarlanmıştır. Bu içerik **ücretsizdir** ve yaygın olarak bilinen Açık Kaynak teknolojilerini (`transformerlar`, `gradio`, vb.) kullanır.
+Üniversite eğitmenlerinin kolayca laboratuvar, ödev veya ders hazırlamak için kullanabilecekleri bir araç seti oluşturduk. İçerik, mevcut müfredata kolayca dahil edilebilecek ve kendi kendine yetebilecek şekilde tasarlanmıştır. Bu içerik **ücretsizdir** ve yaygın olarak bilinen Açık Kaynak teknolojilerini (`transformers`, `gradio`, vb.) kullanır.
 
 Alternatif olarak, Hugging Face ekibinden birinden [ML demo.cratization turu](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) girişimi aracılığıyla sınıfınız için eğitimleri yapmasını isteyebilirsiniz!
 

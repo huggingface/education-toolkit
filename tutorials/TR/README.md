@@ -4,7 +4,7 @@
 
 💡 **Hoş Geldiniz!**
 
-Üniversite eğitmenlerinin kolayca laboratuvar, ödev veya ders hazırlamak için kullanabilecekleri bir araç seti oluşturduk. İçerik, mevcut müfredata kolayca dahil edilebilecek ve kendi kendine yetebilecek şekilde tasarlanmıştır. Bu içerik **ücretsizdir** ve yaygın olarak bilinen Açık Kaynak teknolojilerini (`transformerlar`, `gradio`, vb.) kullanır.
+Üniversite eğitmenlerinin kolayca laboratuvar, ödev veya ders hazırlamak için kullanabilecekleri bir araç seti oluşturduk. İçerik, mevcut müfredata kolayca dahil edilebilecek ve kendi kendine yetebilecek şekilde tasarlanmıştır. Bu içerik **ücretsizdir** ve yaygın olarak bilinen Açık Kaynak teknolojilerini (`transformers`, `gradio`, vb.) kullanır.
 
 Alternatif olarak, Hugging Face ekibinden birinden [ML demo.cratization turu](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) girişimi aracılığıyla sınıfınız için eğitimleri yapmasını isteyebilirsiniz!
 
@@ -39,12 +39,12 @@ Eğitimlerin yanı sıra, makine öğreniminde daha ileri gidebileceğiniz veya 
 >
 > 👉 [eğitime erişmek için buraya tıklayın](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/TR/02_ml-demos-with-gradio.ipynb) veya 👩‍🏫 [ders sunumları](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
-### 3️⃣ Transformerlara Giriş
+### 3️⃣ Transformers Giriş
 
 > Bu eğitimde şunları elde edersiniz:
 >
 > - Transformer sinir ağları, doğal dil işleme ve ötesinde çok çeşitli görevlerin üstesinden gelmek için kullanılabilir.
-> - Transfer öğrenimi, kişinin transformerları belirli görevlere uyarlamasını sağlar.
+> - Transfer öğrenimi, kişinin transformers belirli görevlere uyarlamasını sağlar.
 > - "Transformers" kütüphanesindeki `pipeline()` fonksiyonu, [Hugging Face Hub](https://huggingface.co/models) üzerindeki modellerle çıkarım yapmak için kullanılabilir.
 >
 > Bu eğitim, O'Reilly kitabımızın *[Natural Language Processing with Transformers](https://transformersbook.com/)* - ilk bölümüne dayanmaktadır - bu konuda daha derine inmek istiyorsanız bir bakın!
@@ -75,14 +75,14 @@ Size **[Hugging Face](https://huggingface.co/)** ekosistemindeki kütüphaneler
 
 Şubat 2022'de yayımlanmıştır
 
-Hugging Face'deki uzmanlardan, Transformerlar ve uygulamaları hakkında çok çeşitli NLP görevlerine kadar her şeyi öğrenin.
+Hugging Face'deki uzmanlardan, Transformers ve uygulamaları hakkında çok çeşitli NLP görevlerine kadar her şeyi öğrenin.
 
 👉 [kitabın web sitesini ziyaret etmek için burayı tıklayın](https://transformersbook.com/)
 
 <aside>
 💡 Bu kitap:
 
-- Transformerları içeren son gelişmeleri duymuş olabilecek, ancak bu modelleri kendi kullanım durumlarına uyarlamalarına yardımcı olacak derinlemesine bir kılavuzdan yoksun olan veri bilimciler ve makine öğrenimi mühendisleri için yazılmıştır.
+- Transformers içeren son gelişmeleri duymuş olabilecek, ancak bu modelleri kendi kullanım durumlarına uyarlamalarına yardımcı olacak derinlemesine bir kılavuzdan yoksun olan veri bilimciler ve makine öğrenimi mühendisleri için yazılmıştır.
 - GPU'larda model eğitimi konusunda pratik deneyiminiz olduğunu varsayar.
 - Önceden **[PyTorch](https://pytorch.org/)** veya **[TensorFlow](https://www.tensorflow.org/)** bilgisi gerektirmez, ancak ikisinden birine biraz aşinalık vardır olması yardımcı olur.
 </aside>
