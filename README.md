@@ -99,7 +99,7 @@ From experts at Hugging Face, learn all about Transformers and their application
 | Turkish (TR) | [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR ) | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/)  |
 | Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) |  |
 
-If you would like to translate, see our [TRANSLATING](https://github.com/huggingface/education-toolkit#-languages-and-translations/TRANSLATING.md) guide.
+If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit#-languages-and-translations/TRANSLATING.md) guide.
 
 <aside>
 ✉️ If you have any questions, please contact violette@huggingface.co!
