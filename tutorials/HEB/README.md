@@ -1,4 +1,6 @@
-# 🤗 Education Toolkit
+
+# 🤗 ערכת כלים לחינוך
+<span dir="rtl" align="right">
 
 <aside>
 
@@ -6,26 +8,27 @@
 
 הכנו ערכה שמדריכים באוניברסיטה יכולים להשתמש בה כדי להכין בקלות מעבדות, שיעורי בית, או מערכי שיעור. תוכן זה הוא **בחינם** ומשתמש בטכנולוגיות קוד פתוח מוכרות (`transformers`, `gradio`, וכו').
 
-Alternatively, you can request for someone on the Hugging Face team to run the tutorials for your class via the [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) initiative!
+לחלופין, אפשר לבקש שמישהו מצוות Hgging Face יריץ את ההדרכות לכיתה שלכם דרך יוזמת ה - [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
 
-Apart from tutorials, we also share other resources to go further into ML or that can assist in designing course content.
+בנוסף להדרכות, אנחנו חולקים משאבים נוספים שמאפשרים לצלול עוד לעולם למידת המכונה (ML), ושיכולים לסייע בתכנון תוכן הקורס.
 
 </aside>
 
-Would you like to find the tutorials in other languages? You can find all the translations [here!](https://github.com/huggingface/education-toolkit#-languages-and-translations)
+תרגומים של ההדרכות לשפות נוספות אפשר למצוא [כאן!](https://github.com/huggingface/education-toolkit#-languages-and-translations)
 
-## **Our Tutorials Catalog**
+## **קטלוג ההדרכות שלנו**
 
-### 1️⃣ A Tour through the Hugging Face Hub
+### 1️⃣ סיור דרך ה - Hugging Face Hub
 
-> In this tutorial, you get to:
+> בהדרכה זו, תוכלו: 
+> 
+> - לחקור את יותר מ 30,000 המודלים ששופו ב - Hub
+> - ללמוד דרכים יעילות למצוא את המודל ואת ה - datasets הנכונים.
+> - ללמוד איך לשתף ואיך לעבוד בשיתוף פעולה ב ML workflow שלכם.
 >
-> - Learn efficient ways to find the right model and datasets for your own task.
-> - Learn how to contribute and work collaboratively in your ML workflows
+> **משך ההדכה: 20-40 דקות**
 >
-> **_Duration: 20-40 minutes_**
->
-> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
 
@@ -38,7 +41,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👈 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Getting Started with Transformers
 
@@ -52,7 +55,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 30-45 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👈 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
 ## **Other resources to learn your way!**
 
@@ -60,7 +63,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 
 We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
 
-👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
+👈 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
 
 <aside>
 💡 This course:
@@ -78,7 +81,7 @@ Released February 2022
 
 From experts at Hugging Face, learn all about Transformers and their applications to a wide range of NLP tasks.
 
-👉 [click here to visit the book’s website](https://transformersbook.com/)
+👈 [click here to visit the book’s website](https://transformersbook.com/)
 
 <aside>
 💡 This book:
@@ -104,3 +107,4 @@ If you would like to translate the tutorials to your language, see our [TRANSLAT
 ✉️ If you have any questions, please contact violette@huggingface.co!
 
 </aside>
+</span>
