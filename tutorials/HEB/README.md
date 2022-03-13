@@ -65,17 +65,13 @@
 
 👈 [לחצו כאן כדי לגשת לקורס של 🤗](https://huggingface.co/course/chapter1/1)
 
-<aside>
 💡 קורס זה:
 
 - מצריך ידע טוב ב Pyhton.
 - מתאים לאחר שסיימתם קורס בסיסי בלמידה עמוקה, כמו **[fast.ai’s](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/)** או אחת מהתוכניות שפותחו על ידי **[DeepLearning.AI](https://www.deeplearning.ai/)**.
 - לא מצפה לידע מוקדם ב - **[PyTorch](https://pytorch.org/)** או ב - **[TensorFlow](https://www.tensorflow.org/)** אך היכרות עם אחת מהן תסייע לכם.
-</aside>
 
-### **הספר של 🤗**
-
-<img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
+### **הספר של 🤗**<br><br> <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
 
 שוחרר בפברואר 2022
 
@@ -83,7 +79,6 @@
 
 👈 [לחצו כאן כדי לבקר באתר הספר](https://transformersbook.com/)
 
-<aside>
 💡 ספר זה:
 
 - כתוב למען מדעני נתונים ומהנדסי ML ששמעו על פריצות הדרך האחרונות המערבות טרנספורמרים, אבל חסר להם מדריך המפרט איך להתאים מודלים אלה לצרכים שלהם.
@@ -92,5 +87,4 @@
 
 ✉️ אם יש לך שאלות נוספות, אנא צור קשר עם violette@huggingface.co!
 
-</aside>
 </span>
