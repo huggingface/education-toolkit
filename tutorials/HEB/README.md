@@ -8,7 +8,7 @@
 
 הכנו ערכה שמדריכים באוניברסיטה יכולים להשתמש בה כדי להכין בקלות מעבדות, שיעורי בית, או מערכי שיעור. תוכן זה הוא **בחינם** ומשתמש בטכנולוגיות קוד פתוח מוכרות (`transformers`, `gradio`, וכו').
 
-לחלופין, אפשר לבקש שמישהו מצוות Hgging Face יריץ את ההדרכות לכיתה שלכם דרך יוזמת ה - [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
+לחלופין, אפשר לבקש שמישהו מצוות Hugging Face יריץ את ההדרכות לכיתה שלכם דרך יוזמת ה - [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
 
 בנוסף להדרכות, אנחנו חולקים משאבים נוספים שמאפשרים לצלול עוד לעולם למידת המכונה (ML), ושיכולים לסייע בתכנון תוכן הקורס.
 
@@ -18,93 +18,79 @@
 
 ## **קטלוג ההדרכות שלנו**
 
-### 1️⃣ סיור דרך ה - Hugging Face Hub
+### 1️⃣ סיור ב - Hugging Face Hub
 
 > בהדרכה זו, תוכלו: 
 > 
-> - לחקור את יותר מ 30,000 המודלים ששופו ב - Hub
+> - לחקור את יותר מ 30,000 המודלים ששותפו ב - Hub.
 > - ללמוד דרכים יעילות למצוא את המודל ואת ה - datasets הנכונים.
-> - ללמוד איך לשתף ואיך לעבוד בשיתוף פעולה ב ML workflow שלכם.
+> -  ללמוד איך לשתף ואיך לעבוד בשיתוף פעולה ב - ML workflow שלכם.
 >
-> **משך ההדכה: 20-40 דקות**
+> **_משך ההדכה: 20-40 דקות_**
 >
 > 👈 [לחצו כאן כדי לגשת להדרכה](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
-### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
+### 2️⃣ בניה ואחסון של ML demos עם Gradio & Hugging Face
 
-> In this tutorial, you get to:
+> בהדרכה זו, תוכלו:
 >
-> - Explore ML demos created by the community.
-> - Build a quick demo for your machine learning model in Python using the `gradio` library
-> - Host the demos for free with Hugging Face Spaces
-> - Add your demo to the Hugging Face org for your class or conference
+> - לחקור ML demos שיצרו חברי הקהילה.
+> - לבנות demo זריז למודל ה - ML שלכם ב Python בעזרת ספריית `gradio`.
+> - לאחסן את ה demos בחינם עם Hugging Face Spaces.
+> - להוסיף את הדמו שלכם ל Hugging Face org לטובת הכיתה או הועידה שלכם.
 >
-> **_Duration: 20-40 minutes_**
->
-> 👈 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> **_משך ההדכה: 20-40 דקות_**
+> 
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
-### 3️⃣ Getting Started with Transformers
+### 3️⃣ תחילת העבודה עם Transformers
 
-> In this tutorial, you get to:
+> בהדרכה זו, תלמדו ש:
 >
-> - Transformer neural networks can be used to tackle a wide range of tasks in natural language processing and beyond.
-> - Transfer learning allows one to adapt Transformers to specific tasks.
-> - The `pipeline()` function from the `transformers` library can be used to run inference with models from the [Hugging Face Hub](https://huggingface.co/models).
+> - אפשר להשתמש ב -  Transformer neural networks כדי להתמודד עם מגוון מטלות בעיבוד שפה טבעית ומעבר לכך.
+> - טכניקת Transfer learning מאפשרת לנו להתאים Transformers למטלה ספציפית.
+> - פונקצית ה - `()pipeline` מספריית `transformers` יכולה לשמש להרצת inference עם מודלים מה - [Hugging Face Hub](https://huggingface.co/models).
 >
-> This tutorial is based on the first of our O'Reilly book *[Natural Language Processing with Transformers](https://transformersbook.com/)* - check it out if you want to dive deeper into the topic!
+> מדריך זה מבוסס על הספר שלנו *[Natural Language Processing with Transformers](https://transformersbook.com/)* - בדקו אותו אם תרצו לצלול פנימה אל הנושא!
 >
-> **_Duration: 30-45 minutes_**
+> **_משך ההדכה: 30-45 דקות_**
 >
-> 👈 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
-## **Other resources to learn your way!**
+## **משאבים אחרים ללמוד בדרך שלכם!**
 
-### **The 🤗 Course**
+### **הקורס של 🤗**
 
-We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+אנחנו מספקים קורס (חינם וללא פרסומות) שילמד אתכם על עיבוד שפה טבעית (NLP) בעזרת ספריות מהאקוסיסטם של **[Hugging Face](https://huggingface.co/)**.
 
-👈 [click here to access the 🤗 Course](https://huggingface.co/course/chapter1/1)
+👈 [לחצו כאן כדי לגשת לקורס של 🤗](https://huggingface.co/course/chapter1/1)
 
 <aside>
-💡 This course:
+💡 קורס זה:
 
-- Requires good knowledge of Python
-- Is better taken after an introductory deep learning course, such as **[fast.ai’s](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** or one of the programs developed by **[DeepLearning.AI](https://www.deeplearning.ai/)**
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
+- מצריך ידע טוב ב Pyhton.
+- מתאים לאחר שסיימתם קורס בסיסי בלמידה עמוקה, כמו **[fast.ai’s](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/)** או אחת מהתוכניות שפותחו על ידי **[DeepLearning.AI](https://www.deeplearning.ai/)**.
+- לא מצפה לידע מוקדם ב - **[PyTorch](https://pytorch.org/)** או ב - **[TensorFlow](https://www.tensorflow.org/)** אך היכרות עם אחת מהן תסייע לכם.
 </aside>
 
-### **The 🤗 Book**
+### **הספר של 🤗**
 
 <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
 
-Released February 2022
+שוחרר בפברואר 2022
 
-From experts at Hugging Face, learn all about Transformers and their applications to a wide range of NLP tasks.
+תלמדו על Transformers ועל יישומים שלהם במגוון מטלות NLP ממומחים מ - Hugging Face.
 
-👈 [click here to visit the book’s website](https://transformersbook.com/)
-
-<aside>
-💡 This book:
-
-- Is written for data scientists and machine learning engineers who may have heard about the recent breakthroughs involving transformers, but are lacking an in-depth guide to help them adapt these models to their own use cases.
-- Assumes you have some practical experience with training models on GPUs.
-- Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
-</aside>
-
-
-## 🌎 Translations
-
-| Language | Source | Contributors |
-|:---:|:---:|---|
-| Spanish | [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES ) | @[lewtun](https://github.com/lewtun), @[osanseviero](https://github.com/osanseviero), @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
-| Japanese | [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA ) | @[Wataru-Nakata](https://github.com/Wataru-Nakata) |
-| Turkish (TR) | [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR ) | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/)  |
-| Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) |  |
-
-If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit#-languages-and-translations/TRANSLATING.md) guide.
+👈 [לחצו כאן כדי לבקר באתר הספר](https://transformersbook.com/)
 
 <aside>
-✉️ If you have any questions, please contact violette@huggingface.co!
+💡 ספר זה:
+
+- כתוב למען מדעני נתונים ומהנדסי ML ששמעו על פריצות הדרך האחרונות המערבות טרנספורמרים, אבל חסר להם מדריך המפרט איך להתאים מודלים אלה לצרכים שלהם.
+- מניח שיש לכם מעט ניסיון באימון מודלים על GPUs.
+- לא מצפה לידע מוקדם ב - **[PyTorch](https://pytorch.org/)** או ב - **[TensorFlow](https://www.tensorflow.org/)** אך היכרות עם אחת מהן תסייע לכם.
+
+✉️ אם יש לך שאלות נוספות, אנא צור קשר עם violette@huggingface.co!
 
 </aside>
 </span>
