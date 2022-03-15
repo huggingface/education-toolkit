@@ -6,7 +6,7 @@
 
 Nous avons assemblé une boite à outil que les professeurs du supérieur peuvent utiliser pour préparer des séances de travaux dirigés, des cours ou des devoirs. Le contenu est autonome, de manière à ce qu'il puisse être intégrer dans un cours pré-existant. Le contenu est gratuit et utilise des technologies Open Source connues (`transformers`, `gradio`, etc).
 
-Il est aussi possible de demander à un membre de l'équipe d'Hugging Face de faire tourner les tutoriels pour vos cours via le projet [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
+Il est aussi possible de demander à un membre de l'équipe d'Hugging Face de présenter les tutoriels dans un de vos cours via l'initiative [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
 
 En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressources permettant d'aller plus loin dans le ML ou encore de vous assister dans la création de nouveau contenu de cours.
 
@@ -54,7 +54,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > 👉 [cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
 
-## **D'autres ressources pour poursuivre vos apprentissage !**
+## **D'autres ressources pour poursuivre votre apprentissage !**
 
 ### **Le Cours 🤗 **
 
@@ -84,7 +84,7 @@ Apprenez tout des Transformers ainsi que de leurs applications à un large panel
 💡 Ce livre:
 
 - Est écrit pour des data scientists et des ingénieurs en machine learning qui seraient au fait des dernières avancées majeures impliquant les transformers, mais à qui il manquerait un guide détaillé afin de les aider dans l'adaptation de ces modèles à leurs besoins.
-- Suppose que vous avez une expérience pratique dans l'entrainement de modèles sur GPU
+- Suppose que vous ayez une expérience pratique dans l'entrainement de modèles sur GPU
 - Ne suppose pas de connaissances préalables de **[PyTorch](https://pytorch.org/)**ou**[TensorFlow](https://www.tensorflow.org/)**, même si être famillier avec l'un des deux peut faciliter la compréhension.
 
 <aside>
