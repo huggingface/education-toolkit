@@ -30,7 +30,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 > 👉 [clique aqui para acessar o tutorial](https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT/01_tour_hub_de_huggingface.md) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 
-### 2️⃣ Construir e Hospedar demos de Machine Learning com Gradio & Hugging Face
+### 2️⃣ Construir e hospedar demos de Machine Learning com Gradio & Hugging Face
 
 > Neste tutorial, você pode aprender:
 >
