@@ -87,7 +87,7 @@ Dos especialistas da Hugging Face, aprenda tudo sobre Transformers e suas aplica
 <aside>
 💡 Este livro:
 
-- foi escrito para cientistas de dados e engenheiros de machine learning que podem ter ouvido falar sobre as recentes descobertas envolvendo transformadores, mas não têm um guia detalhado para ajudá-los a adaptar estes modelos aos seus próprios casos de uso.
+- foi escrito para cientistas de dados e engenheiros de Machine Learning que podem ter ouvido falar sobre as recentes descobertas envolvendo transformers, mas não têm um guia detalhado para ajudá-los a adaptar estes modelos aos seus próprios casos de uso.
 - Suponha que você tenha alguma experiência prática com modelos de treinamento em GPUs.
 - Não espera conhecimentos anteriores **[PyTorch](https://pytorch.org/)** ou **[TensorFlow](https://www.tensorflow.org/)**, embora alguma familiaridade com qualquer um deles ajude
 <aside>
