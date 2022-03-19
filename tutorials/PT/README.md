@@ -94,6 +94,6 @@ Dos especialistas da Hugging Face, aprenda tudo sobre Transformers e suas aplica
 
 
 <aside>
-✉️ Se você tiver alguma dúvida, por favor entre em contato ️violette@huggingface.co!
+✉️ Se você tiver alguma dúvida, por favor entre em contato com ️violette@huggingface.co!
 
 <aside>
