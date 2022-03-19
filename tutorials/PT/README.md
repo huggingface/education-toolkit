@@ -39,7 +39,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 > - Hospede demos gratuitamente com o Huggingface Spaces
 > - Adicione sua demonstração à Hugging Face org para sua aula ou conferência
 >
-> **_Duração: 20-40 minutos_***
+> **_Duração: 20-40 minutos_**
 >
 > 👉[clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/PT/02_ml-demos-con-gradio.ipynb) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
