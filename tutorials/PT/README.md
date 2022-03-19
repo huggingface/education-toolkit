@@ -15,7 +15,7 @@ Além dos tutoriais, nós também compartilhamos outros recursos para ir mais lo
 Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar todas as traduções [aqui!](../../README.md#🌎-translations)
 
 
-## **Nosso Catálogo de Tutoriais***
+## **Nosso Catálogo de Tutoriais**
 
 ### 1️⃣ Um tour pelo Hugging Face Hub
 
