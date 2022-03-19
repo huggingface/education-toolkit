@@ -47,7 +47,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 
 > Neste tutorial, você pode aprender:
 >
-> - As redes neurais transformers podem ser usadas para lidar com uma ampla gama de tarefas no processamento de linguagem natural e outros.
+> - Que as redes neurais transformers podem ser usadas para lidar com uma ampla gama de tarefas no processamento de linguagem natural e além.
 > - Que o transfer learning (aprendizado por transferência) permite adaptar os transformers a tarefas específicas.
 > - A função `pipeline()` da biblioteca 'transformers' pode ser utilizada para executar inferências com modelos do [Hugging Face Hub](https://huggingface.co/models).
 >
