@@ -53,7 +53,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > Este tutorial é baseado no primeiro de nosso livro O'Reilly *[Natural Language Processing with Transformers](https://transformersbook.com/)* - confira se você quiser mergulhar mais fundo no assunto!
 >
-> **_Duração: 30-45 minutos_***
+> **_Duração: 30-45 minutos_**
 >
 > 👉 [clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/PT/03_getting-started-with-transformers.ipynb)
 
