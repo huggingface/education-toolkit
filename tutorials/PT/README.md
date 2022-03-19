@@ -71,7 +71,7 @@ Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de
 
 - Requer bons conhecimentos de Python
 - É melhor fazer após um curso introdutório de Machine Learning, como **[fast.ai's](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** ou um dos programas desenvolvidos pelo **[DeepLearning.AI](https://www.deeplearning.ai/)**
-- Não espera conhecimento prévio **[PyTorch](https://pytorch.org/)** ou **[TensorFlow](https://www.tensorflow.org/)**, embora alguma familiaridade com qualquer um deles ajude
+- Não espera conhecimento prévio de **[PyTorch](https://pytorch.org/)** ou **[TensorFlow](https://www.tensorflow.org/)**, embora alguma familiaridade com qualquer um deles ajude
 <aside>
 
 ### **O livro 🤗** (em inglês)
