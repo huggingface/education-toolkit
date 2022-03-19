@@ -80,7 +80,7 @@ Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de
 
 Lançado em fevereiro de 2022
 
-Dos especialistas da Hugging Face, aprenda tudo sobre Transformers e suas aplicações a uma ampla gama de tarefas de PNL.
+Dos especialistas da Hugging Face, aprenda tudo sobre os transformers e suas aplicações a uma ampla gama de tarefas de PNL.
 
 👉 [clique aqui para visitar o site do livro](https://transformersbook.com/)
 
