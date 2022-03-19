@@ -39,7 +39,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Getting Started with Transformers
 
@@ -53,7 +53,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 30-45 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
 ## **Other resources to learn your way!**
 
