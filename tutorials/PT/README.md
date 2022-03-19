@@ -43,7 +43,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > 👉[clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/PT/02_ml-demos-con-gradio.ipynb) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
-### 3️⃣ Começando com  "transformers"
+### 3️⃣ Começando com os Transformers
 
 > Neste tutorial, você pode aprender:
 >
