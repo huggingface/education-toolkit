@@ -25,7 +25,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 > - Aprenda maneiras eficientes de encontrar o modelo e os conjuntos de dados certos para sua própria tarefa.
 > - Aprenda como contribuir e trabalhar de forma colaborativa em seus fluxos de trabalho ML
 >
-> **_Duração: 20-40 minutos_***
+> **_Duração: 20-40 minutos_**
 >
 > 👉 [clique aqui para acessar o tutorial](https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT/01_tour_hub_de_huggingface.md) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
