@@ -32,7 +32,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 
 ### 2️⃣ Construir e hospedar demos de Machine Learning com Gradio & Hugging Face
 
-> Neste tutorial, você pode aprender:
+> Neste tutorial:
 >
 > - Explore as demonstrações ML criadas pela comunidade.
 > - Construa uma rápida demonstração para seu modelo de machine learning em Python utilizando a biblioteca 'gradio'.
