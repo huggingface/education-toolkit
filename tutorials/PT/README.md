@@ -19,7 +19,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 
 ### 1️⃣ Um tour pelo Hugging Face Hub
 
-> Neste tutorial, você pode aprender:
+> Neste tutorial:
 >
 > - Explore os mais de 30.000 modelos compartilhados no Hub.
 > - Aprenda maneiras eficientes de encontrar o modelo e os conjuntos de dados certos para sua própria tarefa.
