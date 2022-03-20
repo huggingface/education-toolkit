@@ -27,7 +27,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > **_Duração: 20-40 minutos_**
 >
-> 👉 [clique aqui para acessar o tutorial](https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT/01_tour_hub_de_huggingface.md) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [clique aqui para acessar o tutorial](https://www.notion.so/huggingface2/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 
 ### 2️⃣ Construir e hospedar demos de Machine Learning com Gradio & Hugging Face
@@ -41,7 +41,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > **_Duração: 20-40 minutos_**
 >
-> 👉[clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/PT/02_ml-demos-con-gradio.ipynb) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉[clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Começando com os Transformers
 
@@ -55,7 +55,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > **_Duração: 30-45 minutos_**
 >
-> 👉 [clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/PT/03_getting-started-with-transformers.ipynb)
+> 👉 [clique aqui para acessar o tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
 
 ## **Outros recursos para aprender da sua maneira!**
