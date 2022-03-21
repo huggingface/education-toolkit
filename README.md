@@ -73,7 +73,7 @@ We provide a course (free and without ads) that teaches you about natural langua
 
 ### **The 🤗 Book**
 
-<img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
+<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
 
 Released February 2022
 
