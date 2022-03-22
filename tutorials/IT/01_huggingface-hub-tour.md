@@ -46,7 +46,7 @@ Ecco alcune informazioni su Hugging Face Hub:
 
 ## Esplorare un modello
 
-Diamo il via all'esplorazione dei modelli. Puoi accedere a 30.000 modelli su [hf.co/models](http://hf.co/models). Vedrete [gpt2](https://huggingface.co/gpt2), uno dei modelli con più download. Clicchiamo su di esso.
+Diamo il via all'esplorazione dei modelli. Puoi accedere a 30.000 modelli su [hf.co/models](http://hf.co/models). Vedrete [gpt2](https://huggingface.co/gpt2), uno dei modelli con più downloads. Clicchiamoci sopra.
 
 Il sito vi porterà alla scheda del modello quando cliccate su di esso. Una scheda del modello è uno strumento che ne contiene la documentazion, fornendo informazioni utili sui modelli ed è essenziale per aumentarne la visibilità e la riproducibilità.
 
