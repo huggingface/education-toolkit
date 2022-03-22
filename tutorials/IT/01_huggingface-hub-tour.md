@@ -126,7 +126,7 @@ Vediamo i passi da fare:
              git lfs install
             ```
 
-    4. Aggiungi i tuoi file alla repository. I file dipendono dal framework/librerie che stai usando. Nel complesso, ciò che è importante è che tu fornisca tutti gli artefatti richiesti per caricare il modello. Per esempio:
+    4. Aggiungi i tuoi file alla repository. I file dipendono dal frameworks/librerie che stai usando. Nel complesso, ciò che è importante è che tu fornisca tutti gli artefatti richiesti per caricare il modello. Per esempio:
         1. Per TensorFlow, potresti voler caricare un file SavedModel or `h5` file.
         2. Per PyTorch, di solito, è un `pytorch_model.bin`.
         3. Per Scikit-Learn, di solito è un file `joblib`.
