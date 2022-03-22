@@ -20,7 +20,7 @@ In aggiunta ai tutorial, condividiamo anche altre risorse per approfondire il Ma
 > In questo tutorial potrai:
 >
 > - Esplorare gli oltre 30.000 modelli condivisi su Hub.
-> - Apprendere modi efficienti per trovare modelli e set di dati adatti al tuo task.
+> - Apprendere modi efficaci per trovare modelli e set di dati adatti al tuo task.
 > - Apprendere come contribuire e lavorare in modo collaborativo nei tuoi flussi di lavoro di Machine Learning (ML)
 >
 > **_Durata: 20-40 minuti_**
