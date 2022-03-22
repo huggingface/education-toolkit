@@ -54,7 +54,7 @@ L'interfaccia è composta da più parti, esaminiamole:
 
 [https://www.youtube.com/watch?v=XvSGPZFEjDY&feature=emb_imp_woyt](https://www.youtube.com/watch?v=XvSGPZFEjDY&feature=emb_imp_woyt)
 
-- In cima, puoi trovare diversi **tags** per cose come il compito svolto (*generazione di testo, classificazione di immagini*, ecc.), i frameworks utilizzati per la sua implementazione (*PyTorch*, *TensorFlow*, ecc.), la lingua del modello (*Inglese*, *Arabo*, *ecc.*), e la licenza (*es. MIT*).
+- In cima, puoi trovare diversi **tags** che descrivono la task del modello (*generazione di testo, classificazione di immagini*, ecc.), i frameworks utilizzati per la sua implementazione (*PyTorch*, *TensorFlow*, ecc.), la lingua del modello (*Inglese*, *Arabo*, *ecc.*), e la licenza (*es. MIT*).
 
 ![](../../images/mode_card_tags.png)
 
