@@ -8,7 +8,7 @@ Abbiamo raccolto un set di strumenti che possono essere usati dagli insegnanti u
 
 In alternativa, puoi fare richiesta affinche qualcuno del team di Hugging Face svolga i tutorial all'interno del tuo corso tramite le iniziative di [ML Demo-cratization Tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)
 
-Puoi trovare tutti i tutorial e le risorse che abbiamo accolto [qui](https://www.notion.so/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599).
+Puoi trovare tutti i tutorial e le risorse che abbiamo raccolto [qui](https://www.notion.so/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599).
 
 </aside>
 
