@@ -58,7 +58,7 @@ L'interfaccia è composta da più parti, esaminiamole:
 
 ![](../../images/mode_card_tags.png)
 
-- Nella colonna di destra, puoi fare dei test con il modello direttamente nel browser usando l'*Inference API*. GPT2 è un modello di generazione di testo, quindi genererà un testo aggiuntivo dato un input iniziale. Provate a digitare qualcosa come "Era una giornata luminosa e soleggiata".
+- Nella colonna di destra, puoi testare il modello direttamente nel browser usando l'*Inference API*. GPT2 è un modello di generazione di testo, quindi genererà un testo aggiuntivo dato un input iniziale. Provate a digitare qualcosa come "Era una giornata luminosa e soleggiata".
 
 ![](../../images/model_card_inference_api.png)
 
