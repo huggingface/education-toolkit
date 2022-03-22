@@ -25,7 +25,7 @@ Obiettivi di apprendimento:
 
 **Formato:** Laboratorio breve o da casa
 
-**Pubblico:** Studenti con qualsiasi conoscenza pregressa interessati ad utilizzare modelli esistenti o a condividere i propri.
+**Pubblico:** Studenti con qualsiasi background interessati ad utilizzare modelli esistenti o a condividere i propri.
 
 **Prerequisiti**
 
