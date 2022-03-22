@@ -1,4 +1,4 @@
-transformers[sentencepiece]
+transformers[torch,sentencepiece]
 jupyter
 gradio
 streamlit
