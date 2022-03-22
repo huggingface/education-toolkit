@@ -42,7 +42,7 @@ Ecco alcune informazioni su Hugging Face Hub:
 - Ci sono oltre 30.000 modelli pubblici.
 - Ci sono modelli per il Natural Language Processing, Computer Vision, Audio/Parolat, e Reinforcement Learning!
 - Ci sono modelli per oltre 180 lingue.
-- Qualsiasi libreria di ML può sfruttare l'Hub: da TensorFlow e PyTorch a integrazioni avanzate con spaCy, SpeechBrain e altre 20 librerie.
+- Qualsiasi libreria di ML può sfruttare l'Hub: da TensorFlow e PyTorch ad integrazioni avanzate con spaCy, SpeechBrain e altre 20 librerie.
 
 ## Esplorare un modello
 
