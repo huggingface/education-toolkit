@@ -25,7 +25,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée : 20-40 minutes_**
 >
-> 👉 [Cliquer ici pour accéder au tutoriel](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) ou 👩‍🏫 [aux slides du cours (en anglais)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [Cliquer ici pour accéder au tutoriel (en anglais)](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) ou 👩‍🏫 [aux slides du cours (en anglais)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Construisez et hébergez des démos de Machine Learning avec Gradio & Hugging Face
 
@@ -38,7 +38,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée : 20-40 minutes_**
 >
-> 👉 [Cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) ou 👩‍🏫 [aux slides du cours (en anglais) ](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [Cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) ou 👩‍🏫 [aux slides du cours (en anglais) ](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Débuter avec les transformers
 
@@ -52,7 +52,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée: 30-45 minutes_**
 >
-> 👉 [cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/FR/03_d%C3%A9buter-avec-les-transformers.ipynb)
 
 ## **D'autres ressources pour poursuivre votre apprentissage !**
 
