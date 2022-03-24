@@ -27,7 +27,7 @@ Você gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar
 >
 > **_Duração: 20-40 minutos_**
 >
-> 👉 [clique aqui para acessar o tutorial](https://www.notion.so/huggingface2/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [clique aqui para acessar o tutorial](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) ou 👩🏫 [os slides (em inglês)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 
 ### 2️⃣ Construir e hospedar demos de Machine Learning com Gradio & Hugging Face
