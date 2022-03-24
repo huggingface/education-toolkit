@@ -55,7 +55,7 @@ The interface has many components, so let’s go through them:
 
 - At the top, you can find different **tags** for things such as the task (*text generation, image classification*, etc.), frameworks (*PyTorch*, *TensorFlow*, etc.), the model’s language (*English*, *Arabic*, *etc.*), and license (*e.g. MIT*).
 
-![](../../images/mode_card_tags.png)
+![](./images/mode_card_tags.png)
 
 - At the right column, you can play with the model directly in the browser using the *Inference API*. GPT2 is a text generation model, so it will generate additional text given an initial input. Try typing something like, “It was a bright and sunny day.”
 
