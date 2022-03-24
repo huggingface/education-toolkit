@@ -24,7 +24,7 @@
 >
 > **_所要時間: 20-40 分_**
 >
-> 👉 [チュートリアルへのリンクはこちら](https://huggingface2.notion.site/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing)
+> 👉 [チュートリアルへのリンクはこちら](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing)
 
 ### 2️⃣ GradioとHugging Faceを用いた機械学習デモページの構築とホスティング
 > このチュートリアルでは:
@@ -36,7 +36,7 @@
 >
 > **_所要時間: 20-40 分_**
 >
-> 👉 [チュートリアルへのリンクはこちら](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing)
+> 👉 [チュートリアルへのリンクはこちら](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) また、 👩‍🏫 [講義スライドはこちら](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing)
 
 ### 3️⃣ Transformers入門
 
@@ -50,7 +50,7 @@
 >
 > **_所要時間: 30-45 分_**
 >
-> 👉 [チュートリアルへのリンクはこちら](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [チュートリアルへのリンクはこちら](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
 ## **使い方を覚えるためのコンテンツ!**
 
