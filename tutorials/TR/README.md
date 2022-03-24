@@ -24,7 +24,7 @@ Eğitimlerin yanı sıra, makine öğreniminde daha ileri gidebileceğiniz veya 
 >
 > **_Süre: 20-40 dakika_**
 >
-> 👉 [eğitime erişmek için buraya tıklayın](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) veya 👩‍🏫 [ders sunumları](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [eğitime erişmek için buraya tıklayın](https://github.com/huggingface/education-toolkit/blob/main/tutorials/TR/01_huggingface-hub-tour.md) veya 👩‍🏫 [ders sunumları](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Gradio ve Hugging Face ile Makine Öğrenimi Demoları Oluşturun ve Barındırın
 

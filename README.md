@@ -12,7 +12,7 @@ Apart from tutorials, we also share other resources to go further into ML or tha
 
 </aside>
 
-Would you like to find the tutorials in other languages? You can find all the translations [here!](https://github.com/huggingface/education-toolkit#-languages-and-translations)
+Would you like to find the tutorials in other languages? You can find all the translations [here!](https://github.com/huggingface/education-toolkit#-translations)
 
 ## **Our Tutorials Catalog**
 
@@ -26,7 +26,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [click here to access the tutorial](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Build and Host Machine Learning Demos with Gradio & Hugging Face
 
@@ -39,7 +39,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 20-40 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) or 👩‍🏫 [the lecture slides](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Getting Started with Transformers
 
@@ -53,7 +53,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > **_Duration: 30-45 minutes_**
 >
-> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
 ## **Other resources to learn your way!**
 
@@ -73,7 +73,7 @@ We provide a course (free and without ads) that teaches you about natural langua
 
 ### **The 🤗 Book**
 
-<img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
+<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
 
 Released February 2022
 
@@ -92,14 +92,17 @@ From experts at Hugging Face, learn all about Transformers and their application
 
 ## 🌎 Translations
 
-| Language | Source | Contributors |
-|:---:|:---:|---|
-| Spanish | [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES ) | @[lewtun](https://github.com/lewtun), @[osanseviero](https://github.com/osanseviero), @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
-| Japanese | [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA ) | @[Wataru-Nakata](https://github.com/Wataru-Nakata) |
-| Turkish (TR) | [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR ) | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/)  |
-| Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) |  |
+|     Language     |                                             Source                                            | Contributors                                                                                                                                                                         |
+|:----------------:|:---------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Italian          | [ `tutorials/IT` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/IT)   | @[MorenoLaQuatra](https://github.com/MorenoLaQuatra)                                                                                                                                 |
+|      Spanish     | [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES ) | @[lewtun](https://github.com/lewtun), @[osanseviero](https://github.com/osanseviero), @[omarespejel](https://github.com/omarespejel), @[Fabioburgos](https://github.com/Fabioburgos) |
+|      Turkish     | [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR ) | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/)                                                                                          |
+|  Japanese (WIP)  | [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA ) | @[Wataru-Nakata](https://github.com/Wataru-Nakata)                                                                                                                                   |
+| Portuguese (WIP) | [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT ) | @[johnnv1](https://github.com/johnnv1/)                                                                                                                                              |
+|   French (WIP)   | [  `tutorials/FR`  ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/FR) | @[g0bel1n](https://github.com/g0bel1n)                                                                                                                                               |
 
-If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit#-languages-and-translations/TRANSLATING.md) guide.
+
+If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit/blob/main/TRANSLATING.md) guide.
 
 <aside>
 ✉️ If you have any questions, please contact violette@huggingface.co!
