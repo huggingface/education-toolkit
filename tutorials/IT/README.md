@@ -25,7 +25,7 @@ In aggiunta ai tutorial, condividiamo anche altre risorse per approfondire il Ma
 >
 > **_Durata: 20-40 minuti_**
 >
-> 👉 [clicca qui per accedere al tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [clicca qui per accedere al tutorial](https://github.com/huggingface/education-toolkit/blob/main/tutorials/IT/01_huggingface-hub-tour.md) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Costruire e pubblicare una demo di apprendimento automatico con Gradio & Hugging Face
 
@@ -38,7 +38,7 @@ In aggiunta ai tutorial, condividiamo anche altre risorse per approfondire il Ma
 >
 > **_Durata: 20-40 minuti_**
 >
-> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/IT/02_ml-demos-with-gradio.ipynb) o 👩‍🏫 [alle slides della lezione](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Come iniziare con i Transformers
 
@@ -52,7 +52,7 @@ In aggiunta ai tutorial, condividiamo anche altre risorse per approfondire il Ma
 >
 > **_Durata: 30-45 minuti_**
 >
-> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👉 [clicca qui per accedere al tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/IT/03_getting-started-with-transformers.ipynb)
 
 ## **Altre risorse per imparare in autonomia!**
 
