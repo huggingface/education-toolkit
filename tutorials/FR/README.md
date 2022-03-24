@@ -52,7 +52,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée: 30-45 minutes_**
 >
-> 👉 [cliquer ici pour accéder au tutoriel (en anglais)](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/FR/03_d%C3%A9buter-avec-les-transformers.ipynb)
+> 👉 [Cliquer ici pour accéder au tutoriel](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/FR/03_d%C3%A9buter-avec-les-transformers.ipynb)
 
 ## **D'autres ressources pour poursuivre votre apprentissage !**
 
