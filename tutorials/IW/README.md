@@ -28,7 +28,7 @@
 >
 > **_משך ההדכה: 20-40 דקות_**
 >
-> 👈 [לחצו כאן כדי לגשת להדרכה](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ בניה ואחסון של ML demos עם Gradio & Hugging Face
 
@@ -41,7 +41,7 @@
 >
 > **_משך ההדכה: 20-40 דקות_**
 > 
-> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/02_ml-demos-with-gradio.ipynb) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-with-gradio.ipynb) או 👩‍🏫 [לשקופיות ההרצאה](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ תחילת העבודה עם Transformers
 
@@ -55,7 +55,7 @@
 >
 > **_משך ההדכה: 30-45 דקות_**
 >
-> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/EN/03_getting-started-with-transformers.ipynb)
+> 👈 [לחצו כאן כדי לגשת להדרכה](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
 ## **משאבים אחרים ללמוד בדרך שלכם!**
 
@@ -67,7 +67,7 @@
 
 💡 קורס זה:
 
-- מצריך ידע טוב ב Pyhton.
+- מצריך ידע טוב ב Python.
 - מתאים לאחר שסיימתם קורס בסיסי בלמידה עמוקה, כמו **[fast.ai’s](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/)** או אחת מהתוכניות שפותחו על ידי **[DeepLearning.AI](https://www.deeplearning.ai/)**.
 - לא מצפה לידע מוקדם ב - **[PyTorch](https://pytorch.org/)** או ב - **[TensorFlow](https://www.tensorflow.org/)** אך היכרות עם אחת מהן תסייע לכם.
 
