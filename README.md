@@ -4,7 +4,7 @@
 
 👋 **Welcome!**
 
-We’ve assembled a toolkit that Hugging Face ambassadors can use to easily prepare workshops, events, labs or classes. The content is self-contained so that it can be easily taken over. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
+We’ve assembled a toolkit that anyone can use to easily prepare workshops, events, homework or classes. The content is self-contained so that it can be easily taken over. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
   
 On June 6 we're organizing a dedicated, free workshop on how to teach these resources in your community. Do not hesitate to [register](https://www.eventbrite.com/e/how-to-teach-open-source-machine-learning-tools-tickets-310980931337).
 
