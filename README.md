@@ -55,6 +55,14 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
+## **Our Teaching Guide: A Tour Through The 🤗 Hub & Gradio**
+
+In this video, Nate and Lewis summarize the importance of transformers and transfer learning and talk about open science efforts and tools to enable people to work collaboratively in their Machine Learning projects.
+
+<p align= "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8sHYMeDitQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p/>
+
 ## **Other resources to learn your way!**
 
 ### **The 🤗 Course**
