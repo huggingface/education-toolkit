@@ -57,7 +57,7 @@ Would you like to find the tutorials in other languages? You can find all the tr
 
 ## **Our Teaching Guide: A Tour Through The 🤗 Hub & Gradio**
 
-In this video, Nate and Lewis summarize the importance of transformers and transfer learning and talk about open science efforts and tools to enable people to work collaboratively in their Machine Learning projects.
+In this video, Nate and Lewis give you a guided tour of Transformers and transfer learning, along with an overview of Hugging Face's open science efforts and tools that enable people to work collaboratively in their Machine Learning projects.
 
 <p align= "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8sHYMeDitQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
