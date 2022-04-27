@@ -59,9 +59,8 @@ Would you like to find the tutorials in other languages? You can find all the tr
 
 In this video, Nate and Lewis give you a guided tour of Transformers and transfer learning, along with an overview of Hugging Face's open science efforts and tools that enable people to work collaboratively in their Machine Learning projects.
 
-<p align= "center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k8sHYMeDitQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p/>
+<a href="{https://www.youtube.com/embed/k8sHYMeDitQ}" title="A Tour Through The Hugging Face Hub & A Hands on Guide To Gradio"> <img src="{https://user-images.githubusercontent.com/95622912/165495051-6a5f7e1e-12d3-475d-af87-435ec653b05d.png}" alt="A Tour Through The Hugging Face Hub & A Hands on Guide To Gradio" /> </a>
+
 
 ## **Other resources to learn your way!**
 
