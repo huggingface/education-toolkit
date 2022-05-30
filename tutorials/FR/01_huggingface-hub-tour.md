@@ -25,7 +25,7 @@ Objectifs d'apprentissage :
 - Apprendre à contribuer et à travailler en collaboration.
 - Explorez les démos d'apprentissage automatique créées par la communauté.
 
-**Format : ** TD courts ou pour des devoirs maisons.
+**Format :** TD courts ou pour des devoirs maisons.
 
 **Public :** Étudiants de tous horizons intéressés par l'utilisation de modèles existants ou par le partage de leurs propres modèles.
 
@@ -209,7 +209,7 @@ Partager vos modèles et vos jeux de données, c'est bien, mais créer une démo
 - De partager avec un public non technique **l'impact d'un modèle**.
 - Construire un **portfolio** de projets d'apprentissage automatique.
 
-Il existe des *frameworks* Python Open-Source tels que Gradio et Streamlit qui permettent de construire ces démos très facilement, et des outils tels que [Spaces] (http://hf.co/spaces/launch) qui permettent de les héberger et de les partager. Comme TD suivant, nous recommandons de suivre le tutoriel **Créez et hébergez des démonstrations d'apprentissage automatique avec Gradio et Hugging Face**.
+Il existe des *frameworks* Python Open-Source tels que Gradio et Streamlit qui permettent de construire ces démos très facilement, et des outils tels que [Spaces](http://hf.co/spaces/launch) qui permettent de les héberger et de les partager. Comme TD suivant, nous recommandons de suivre le tutoriel **Créez et hébergez des démonstrations d'apprentissage automatique avec Gradio et Hugging Face**.
 
 > Dans ce tutoriel, vous apprendrez à :
 >
