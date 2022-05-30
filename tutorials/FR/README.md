@@ -25,7 +25,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée : 20-40 minutes_**
 >
-> 👉 [Cliquer ici pour accéder au tutoriel](https://github.com/huggingface/education-toolkit/blob/main/01_huggingface-hub-tour.md) ou 👩‍🏫 [aux diapositives du cours (en anglais)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [Cliquer ici pour accéder au tutoriel](https://github.com/huggingface/education-toolkit/blob/main/tutorials/FR/01_huggingface-hub-tour.md) ou 👩‍🏫 [aux diapositives du cours (en anglais)](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Construisez et hébergez des démos l'apprentissage automatique avec Gradio & Hugging Face
 
@@ -38,7 +38,7 @@ En dehors de ces tutoriels, nous mettons aussi à disposition d'autres ressource
 >
 > **_Durée : 20-40 minutes_**
 >
-> 👉 [Cliquer ici pour accéder au tutoriel](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/02_ml-demos-avec-gradio.ipynb) ou 👩‍🏫 [aux diapositives du cours (en anglais) ](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
+> 👉 [Cliquer ici pour accéder au tutoriel](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/tutorials/FR/02_ml-demos-avec-gradio.ipynb) ou 👩‍🏫 [aux diapositives du cours (en anglais) ](https://docs.google.com/presentation/d/14EU_xjtINXtpidWLnUvfcEpmxN46ORS-PLpwfUf8C1I/edit?usp=sharing).
 
 ### 3️⃣ Débuter avec les transformers
 
