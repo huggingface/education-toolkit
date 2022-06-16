@@ -93,6 +93,19 @@ From experts at Hugging Face, learn all about Transformers and their application
 - Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
 </aside>
 
+### **The 🤗 Classroom**
+
+Classrooms provide teachers & students with dedicated collaborative workspaces to take advantage of Hugging Face resources in a more powerful manner than the average user.
+
+👉 [click here to create your 🤗 Classroom for free](https://huggingface.co/classrooms)
+
+<aside>
+💡 From classrooms, you can:
+
+- **Empower your students with state-of-the-art resources:** build machine learning applications with Hugging Face and collaborate with your students easily on all their datasets, models and ML demos hosted within your classroom workspace.
+- **Give your students unlimited access to modern machine learning tools:**  upload datasets, models and demos for free. Train, fine-tune, experiment and deploy, then share models and demos with the classroom or community, all hosted for free.
+- **Benefit from free advanced computational resources** such as access to Accelerated Inference API.
+</aside>
 
 ## 🌎 Translations
 
