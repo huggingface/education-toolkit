@@ -109,11 +109,11 @@ We provide several tutorials on one of the most powerful libraries for industria
 <aside>
 💡 We recommend following the tutorials in this order:
 
+- Introduction to working with embeddings using the Inference API and the 🤗 Datasets library ([link](https://t.co/gcqqilyJYn)).
 - Guide to start with your Sentence Transformers project ([link](https://t.co/BDTP6XoATu)).
 - Share and load Sentence Transformers models from the Hub ([link](https://www.sbert.net/docs/hugging_face.html)).
-- Sentence Transformers models and links in the Hub ([link](https://huggingface.co/sentence-transformers))
-- Interactive tutorial on Semantic Search ([link](https://t.co/lboHZKmygR))
-- Introduction to working with embeddings using the Inference API and the 🤗 Datasets library ([link](https://t.co/gcqqilyJYn)).
+- Sentence Transformers models and links in the Hub ([link](https://huggingface.co/sentence-transformers)).
+- Interactive tutorial on Semantic Search ([link](https://t.co/lboHZKmygR)).
 
 ### **The 🤗 Book**
 
