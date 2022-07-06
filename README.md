@@ -102,6 +102,19 @@ We provide a course (free and without ads) that teaches you about Deep Reinforce
 - Publish your trained agents in one line of code to the Hugging Face Hub, and more!
 </aside>
 
+### **The Sentence Transformers educational material**
+
+We provide several tutorials on one of the most powerful libraries for industrial and academic applications. [Sentence Transformers](https://huggingface.co/sentence-transformers) allows you to create state-of-the-art embeddings from images and text for free.
+
+<aside>
+💡 We recommend following the tutorials in this order:
+
+- Guide to start with your Sentence Transformers project ([link](https://t.co/BDTP6XoATu)).
+- Share and load Sentence Transformers models from the Hub ([link](https://www.sbert.net/docs/hugging_face.html)).
+- Sentence Transformers models and links in the Hub ([link](https://huggingface.co/sentence-transformers))
+- Interactive tutorial on Semantic Search ([link](https://t.co/lboHZKmygR))
+- Introduction to working with embeddings using the Inference API and the 🤗 Datasets library ([link](https://t.co/gcqqilyJYn)).
+
 ### **The 🤗 Book**
 
 <img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
