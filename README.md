@@ -61,7 +61,7 @@ In this video, Nate and Lewis give you a guided tour of Transformers and transfe
 
 ## **Other resources to learn your way!**
 
-### **The 🤗 Course**
+### **The 🤗 NLP Course**
 
 We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
 
@@ -73,6 +73,33 @@ We provide a course (free and without ads) that teaches you about natural langua
 - Requires good knowledge of Python
 - Is better taken after an introductory deep learning course, such as **[fast.ai’s](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** or one of the programs developed by **[DeepLearning.AI](https://www.deeplearning.ai/)**
 - Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
+</aside>
+
+### **The 🤗 Gradio Course**
+
+We provide a course (free and without ads) that teaches you how to build interactive demos for your machine learning models using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+
+👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter9/1)
+
+<aside>
+💡 This course:
+
+- Its ultimate goal is to allow ML developers to easily present their work to a wide audience including non-technical teams or customers, researchers to more easily reproduce machine learning models and behavior, end users to more easily identify and debug failure points of models, and more!
+</aside>
+
+### **The 🤗 RL Course**
+
+We provide a course (free and without ads) that teaches you about Deep Reinforcement Learning using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+
+👉 [click here to access the 🤗 Course](https://github.com/huggingface/deep-rl-class)
+
+<aside>
+💡 This course:
+
+- Study Deep Reinforcement Learning in theory and practice 
+- Learn to use famous Deep RL libraries
+- Train agents in unique environments
+- Publish your trained agents in one line of code to the Hugging Face Hub, and more!
 </aside>
 
 ### **The 🤗 Book**
@@ -104,7 +131,8 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 
 - **Empower your students with state-of-the-art resources:** build machine learning applications with Hugging Face and collaborate with your students easily on all their datasets, models and ML demos hosted within your classroom workspace.
 - **Give your students unlimited access to modern machine learning tools:**  upload datasets, models and demos for free. Train, fine-tune, experiment and deploy, then share models and demos with the classroom or community, all hosted for free.
-- **Benefit from free advanced computational resources** such as access to Accelerated Inference API.
+- **Benefit from free advanced computational resources** such as access to Accelerated Inference API. [click here to enhance your Classroom](https://docs.google.com/forms/d/e/1FAIpQLSfQ22dZHmsh-vHpjboLwcyMJvEC5kpKX8k9N_ihM_lyGgcXHA/viewform)
+
 </aside>
 
 ## 🌎 Translations
