@@ -148,6 +148,11 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 
 </aside>
 
+### **The 🤗 Education Events & News**
+
+- **08/09**[EVENT]: ML Demo.cratization tour in Colombia at 6pm (colombian time). [Link to come]()
+- **09/08**[EVENT]: ML Demo.cratization tour in Argentina at 2pm (GMT-3). [Link here](https://www.uade.edu.ar/agenda/clase-pr%C3%A1ctica-con-hugging-face-c%C3%B3mo-construir-machine-learning-de-forma-colaborativa/)
+
 ## 🌎 Translations
 
 |     Language     |                                              Source                                             | Contributors                                                                                |
