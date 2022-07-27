@@ -9,6 +9,8 @@
 
 이 자료는 대학 강사들이 실습, 과제 또는 수업을 쉽게 준비할 수 있는 콘텐츠를 모았습니다. 모든 콘텐츠는 무료이며 독립적이기에 기존 교육과정에 쉽게 통합될 수 있고, 잘 알려진 오픈소스 기술 (`transformers`, `gradio` 등) 을 사용합니다.
 
+2022년 6월 6일 ML 및 데이터 과학 수업에서 이러한 리소스를 가르치는 방법에 대한 무료 워크숍을 개최합니다. 주저하지 마시고 [등록](https://www.eventbrite.com/e/how-to-teach-open-source-machine-learning-tools-tickets-310980931337)로 문의해주세요.
+
 
 Hugging Face 팀 멤버에게 튜토리얼 강연을 요청하기 위해서는 [ML demo.cratization 투어](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652)를 참조해주세요.
 
