@@ -168,7 +168,7 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 |   French (WIP)   |  [  `tutorials/FR`  ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/FR)  | @[g0bel1n](https://github.com/g0bel1n) @[lbourdois](https://github.com/lbourdois)                                                      |
 | Hebrew (WIP)     | [   `tutorials/HE`   ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/IW) | @[omer-dor](https://github.com/omer-dor)                                                    |
 |  Japanese (WIP)  |  [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA )  | @[Wataru-Nakata](https://github.com/Wataru-Nakata)                                          |
-| Korean (WIP)     | [  `tutorials/KO`  ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/KO ) | @ [oikosohn](https://github.com/oikosohn)                                                   |
+| Korean (WIP)     | [  `tutorials/KO`  ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/KO ) | @[oikosohn](https://github.com/oikosohn) @[eunseojo](https://github.com/oikosohn)                                                  |
 | Portuguese (WIP) |  [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT )  | @[johnnv1](https://github.com/johnnv1/)                                                     |
 
 If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit/blob/main/TRANSLATING.md) guide.
