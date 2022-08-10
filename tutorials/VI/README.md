@@ -4,7 +4,7 @@
 
 👋 **Chào mừng các bạn!**
 
-Chúng tôi đã tập hợp một bộ công cụ mà bất kỳ ai cũng có thể sử dụng để dễ dàng chuẩn bị cho các hội thảo, sự kiện, bài tập về nhà, hoặc lớp học. Nội dung độc lập có thể dễ dàng kết hợp với các tài liệu khác. Nội dung này hoàn toàn **miễn phí** và sử dụng các công nghệ Mã nguồn mở nổi tiếng (`transformers`, `gradio`, v.v.).
+Chúng tôi đã tập hợp một bộ công cụ mà bất kỳ ai cũng có thể sử dụng để dễ dàng chuẩn bị cho các hội thảo, sự kiện, bài tập về nhà, hoặc lớp học. Nội dung hoàn toàn độc lập có thể dễ dàng kết hợp với các tài liệu khác. Nội dung này hoàn toàn **miễn phí** và sử dụng các công nghệ Mã nguồn mở nổi tiếng (`transformers`, `gradio`, v.v.).
 
 Ngoài các bài hướng dẫn, chúng tôi cũng chia sẻ các tài nguyên khác giúp đi sâu hơn về Học máy hoặc giúp hỗ trợ thiết kế nội dung.
 
@@ -18,7 +18,7 @@ Bạn muốn tìm các bài hướng dẫn ở ngôn ngữ khác? Bạn có th�
 
 > Trong bài hướng dẫn này, bạn có thể:
 >
-> - Khám phá hơn 30.000 mô hình được chia sẻ trong Hub.
+> - Khám phá hơn 30,000 mô hình được chia sẻ trong Hub.
 > - Tìm hiểu các phương pháp hiệu quả để tìm đúng mô hình và bộ dữ liệu cho bài toán của riêng bạn.
 > - Tìm hiểu cách đóng góp và cộng tác trong quy trình xây dựng mô hình Học máy của bạn.
 >
