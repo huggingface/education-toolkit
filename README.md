@@ -169,6 +169,7 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 |  Japanese (WIP)  |  [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA )  | @[Wataru-Nakata](https://github.com/Wataru-Nakata)                                          |
 | Korean (WIP)     | [  `tutorials/KO`  ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/KO ) | @[oikosohn](https://github.com/oikosohn) @[eunseojo](https://github.com/oikosohn)                                                  |
 | Portuguese (WIP) |  [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT )  | @[johnnv1](https://github.com/johnnv1/)                                                     |
+|  Chinese (WIP)   |  [ `tutorials/ZH` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ZH )  | @[hzwlille](https://github.com/hzwlille)                                                    |
 
 If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit/blob/main/TRANSLATING.md) guide.
 
