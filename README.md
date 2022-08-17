@@ -150,7 +150,6 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 
 ### **The 🤗 Education Events & News**
 
-- **08/17**[EVENT]: ML Demo.cratization tour in Ghana at 3pm (local time. [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdU_M_Om7kZHjtisFTcH88TcfTn8pACeqPUXPyJglSTTUDhfQ/viewform?usp=sf_link)
 - **09/08**[EVENT]: ML Demo.cratization tour in Argentina at 2pm (local time). [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfeD1C5W_YQxrGAm1pPHpccglqimm-Ot56RZwW-WQHWUOjxPA/viewform?usp=sf_link)
 - **09/14**[EVENT]: ML Demo.cratization tour in Canada at 6pm (EST time). [Register here](https://docs.google.com/forms/d/e/1FAIpQLSeEBSBVLQGsGJkW2suo3FYexvlkelurcweA2sSLMFTUTBy3Og/viewform?usp=sf_link)
 
