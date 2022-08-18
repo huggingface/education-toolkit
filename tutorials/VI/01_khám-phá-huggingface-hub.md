@@ -51,19 +51,19 @@ Giao diện có rất nhiều thành phần, vì vậy hãy cùng nhau xem qua c
 
 - Ở trên cùng, bạn có thể tìm thấy các **thẻ** khác nhau cho các tác vụ (*Text Generation* tương ứng Tạo văn bản, *Image Classification* tương ứng Phân loại Hình ảnh, v.v.), các khung (*PyTorch*, *TensorFlow*, v.v.), ngôn ngữ mô hình sử dụng (*English*, *Arabic*, v.v.), và giấy phép (ví dụ: *MIT*).
 
-![](./images/mode_card_tags.png)
+![](../../images/mode_card_tags.png)
 
 - Ở cột bên phải, bạn có thể nghịch với mô hình trực tiếp trên trình duyệt bằng cách sử dụng *Inference API*. GPT2 là một mô hình tạo văn bản, vì vậy nó sẽ tạo ra văn bản dựa trên dữ liệu đầu vào ban đầu. Hãy thử nhập nội dung như  “It was a bright and sunny day.” (“Hôm nay là một ngày nắng đẹp.”).
 
-![](./images/model_card_inference_api.png)
+![](../../images/model_card_inference_api.png)
 
 - Ở chính giữa, bạn có thể xem qua nội dung của thẻ mô hình. Nó có các phần như Mục đích sử dụng & giới hạn, Quy trình huấn luyện, và Thông tin trích dẫn.
 
-![](./images/model_card_content.png)
+![](../../images/model_card_content.png)
 
 Tất cả những dữ liệu này đến từ đâu? Tại Hugging Face, mọi thứ đều có trong **kho lưu trữ Git** và có nguồn mở. Bạn có thể nhấn vào tab “Files and Versions” tương ứng Tệp và Phiên bản, tab này sẽ cho phép bạn xem tất cả các tệp trong kho, bao gồm cả các trọng số của mô hình. Thẻ mô hình là một tệp **([README.md](http://README.md))** mà phía trên đầu nội dung chứa siêu dữ liệu chẳng hạn như các thẻ.
 
-![](./images/model_card_git.png)
+![](../../images/model_card_git.png)
 
 Vì tất cả các mô hình đều dựa trên kho lưu trữ Git, bạn có thể kiểm soát các phiên bản tức thì. Giống như GitHub, bạn có thể thực hiện các thao tác như clone (sao chép) Git, add (thêm), commit (cam kết), branch (phân nhánh) và push (đẩy). Nếu bạn chưa bao giờ sử dụng Git, chúng tôi khuyến khích bạn tham khảo [tài liệu này](https://learngitbranching.js.org/).
 
@@ -80,7 +80,7 @@ Cho tới phần này, chúng ta đã khám phá một mô hình duy nhất. Hã
   - **Các thư viện:** Mặc dù Hub ban đầu được xây dựng cho các mô hình Transformers, Hub có tích hợp thêm với hàng tác các thư viện khác. Bạn có thể tìm thấy các mô hình của Keras, spaCy, allenNLP, v.v.
 - **Các bộ dữ liệu:** Hub cũng lưu trữ hàng nghìn bộ dữ liệu mà bạn sẽ tìm hiểu thêm về sau.
 
-![](./images/model_card_filters.png)
+![](../../images/model_card_filters.png)
 
 - **Các ngôn ngữ:** Nhiều mô hình trên Hub có liên quan đến NLP. Bạn có thể tìm thấy các mô hình phục vụ hàng trăm ngôn ngữ, bao gồm cả các ngôn ngữ ít tài nguyên.
 
@@ -143,7 +143,7 @@ Hãy cùng đi qua các bước dưới đây:
 
 Và chúng ta đã hoàn thành! Bạn có thể kiểm tra kho lưu trữ của mình với tất cả các tệp được thêm gần đây!
 
-![](./images/model_card_updated_repo.png)
+![](../../images/model_card_updated_repo.png)
 
 Giao diện người dùng cho phép bạn khám phá các tệp mô hình và các cam kết cũng như xem sự thay đổi ở mỗi cam kết.
 
@@ -178,15 +178,15 @@ Hãy cùng khám phá [GLUE](https://huggingface.co/datasets/glue), một bộ d
 
 - Tương tự với kho lưu trữ mô hình, bạn có thẻ dữ liệu lưu trữ bộ dữ liệu. Nếu bạn kéo xuống một chút, bạn sẽ tìm thấy những thông tin như tóm tắt về bộ dữ liệu, cấu trúc dữ liệu, và hơn thế nữa.
 
-![](./images/datasets_card.png)
+![](../../images/datasets_card.png)
 
 - Ở trên cùng, bạn có thể khám phá một phần của tập dữ liệu trực tiếp trong trình duyệt. Bộ dữ liệu GLUE được chia thành nhiều tập dữ liệu con (hoặc tập con) mà bạn có thể chọn, chẳng hạn như COLA và QNLI.
 
-  ![](./images/datasets_slices.png)
+  ![](../../images/datasets_slices.png)
 
 - Ở bên phải của thẻ dữ liệu, bạn có thể thấy một danh sách các mô hình được huấn luyện trên bộ dữ liệu này.
 
-![](./images/datasets_models_trained.png)
+![](../../images/datasets_models_trained.png)
 
 **Thử thách 6**. Tìm kiếm bộ dữ liệu Common Voice. Trả lời những câu hỏi sau:
 

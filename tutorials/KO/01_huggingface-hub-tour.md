@@ -55,19 +55,19 @@ Hugging Face Hub에 대한 몇 가지 사실:
 
 - 상단에는 작업(*text generation*, *image classification* 등), 프레임워크(*PyTorch*, *TensorFlow* 등), 모델의 언어(*English*, *Arabic*, *etc.*), 라이선스(*예 : MIT*) 등의 다양한 태그가 있습니다.
 
-![](../images/mode_card_tags.png)
+![](../../images/mode_card_tags.png)
 
 - 오른쪽 열에는 *Inference API*를 사용해 브라우저에서 직접 모델을 사용할 수 있습니다. GPT2는 텍스트 생성 모델이므로 초기 입력이 주어지면 추가 텍스트를 생성합니다. “It was a bright and sunny day.”와 같이 입력해 보세요.
 
-![](../images/model_card_inference_api.png)
+![](../../images/model_card_inference_api.png)
 
 - 중간에서는 모델 카드 내용을 살펴볼 수 있습니다. 용도 & 제한 사항, 학습 절차 및 인용 정보와 같은 부분이 있습니다.
 
-![](../images/model_card_content.png)
+![](../../images/model_card_content.png)
 
 모든 데이터는 어디에서 왔을까요? Hugging Face는 모든 것이 **Git 저장소**를 기반으로 하며 오픈소스입니다. “Files and Versions” 탭을 클릭하면 모델 가중치를 포함한 모든 저장소 파일들을 볼 수 있습니다. 모델 카드는 콘텐츠 상단에 태그와 같은 메타데이터가 포함된 마크다운 파일 **([README.md](http://README.md))** 입니다.
 
-![](../images/model_card_git.png)
+![](../../images/model_card_git.png)
 
 모든 모델은 Git 기반 저장소이므로 기본적으로 버전을 제어할 수 있습니다. Github와 똑같이 Git Clone, Add, Commit, Branch, Push가 가능합니다. 이전에 Git을 사용한 적이 없다면 다음 [resource](https://learngitbranching.js.org/)를 참고하세요.
 
@@ -84,7 +84,7 @@ Hugging Face Hub에 대한 몇 가지 사실:
   - **Libraries:** Hub는 초기에 Transformer 모델을 위한 것이었지만 수십 개의 라이브러리와 통합되었습니다. Keras, spaCy, allenNLP 등의 모델을 찾을 수 있습니다.
 - **Datasets:** Hub는 수천 개의 데이터셋도 호스팅합니다. 나중에 자세히 알아볼 것입니다.
 
-![](../images/model_card_filters.png)
+![](../../images/model_card_filters.png)
 
 - **Languages:** Hub의 많은 모델이 NLP와 관련되어 있습니다. 자원이 적은 언어를 포함하여 수백 가지 언어에 대한 모델을 찾을 수 있습니다.
 
@@ -147,7 +147,7 @@ Hub에 모델을 업로드한다고 가정하겠습니다. Scikit-learn, Keras, 
 
 모델을 업로드하는 모든 작업이 끝났습니다. 최근에 추가된 모든 파일을 저장소에서 확인할 수 있습니다.
 
-![](../images/model_card_updated_repo.png)
+![](../../images/model_card_updated_repo.png)
 
 웹 UI에서 모델 파일과 Commit을 탐색하고 각 Commit에 따른 차이를 볼 수 있습니다. 
 
@@ -182,15 +182,15 @@ NLP 성능 테스트에 사용되는 유명한 데이터셋인 [GLUE](https://hu
 
 - 모델 저장소와 유사하게 데이터셋을 문서화하는 데이터셋 카드가 있습니다. 화면을 조금 내리면 데이터셋의 요약, 구조 등을 찾을 수 있습니다. 
 
-![](../images/datasets_card.png)
+![](../../images/datasets_card.png)
 
 - 데이터셋 카드 상단에서 직접 데이터셋 일부를 확인할 수 있습니다. GLUE 데이터셋은 COLA, QNLI와 같이 복수의 하위 데이터셋으로 나뉩니다. 
 
-  ![](../images/datasets_slices.png)
+  ![](../../images/datasets_slices.png)
 
 - 데이터셋 카드의 우측은 해당 데이터셋으로 학습한 모델의 목록을 확인할 수 있습니다. 
 
-![](../images/datasets_models_trained.png)
+![](../../images/datasets_models_trained.png)
 
 **문제 6**. Common Voice 데이터셋을 탐색하고 다음 질문에 대답하세요.
 

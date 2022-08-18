@@ -57,19 +57,19 @@ L'interface comporte de nombreux composants, passons-les en revue :
 
 - En haut, vous pouvez trouver différents **tags** pour des choses telles que la tâche (*génération de texte, classification d'images*, etc.), les *frameworks* (*PyTorch*, *TensorFlow*, etc.), la langue du modèle (*anglais*, *français*, *etc.*) et la licence (*e.g. MIT*).
 
-![](./images/mode_card_tags.png)
+![](../../images/mode_card_tags.png)
 
 - Dans la colonne de droite, vous pouvez jouer avec le modèle directement dans le navigateur à l'aide d'API d'*Inference*. Le GPT2 est un modèle de génération de texte, il va donc générer du texte supplémentaire à partir d'une entrée initiale. Essayez de taper quelque chose en anglais comme « It was a bright and sunny day » (c'était une journée claire et ensoleillée).
 
-![](./images/model_card_inference_api.png)
+![](../../images/model_card_inference_api.png)
 
 - Au milieu, vous pouvez parcourir le contenu de la carte. Elle comporte des sections telles que Utilisations prévues et limites, Procédure d'entraînement et Informations sur la citation.
 
-![](./images/model_card_content.png)
+![](../../images/model_card_content.png)
 
 D'où viennent toutes ces données ? Chez Hugging Face, tout est basé sur des dépôts **Git** et est open-sourcé. Vous pouvez cliquer sur l'onglet *Files and Versions* (ficheirs et versions) qui vous permettra de voir tous les fichiers du dépôt, y compris les poids du modèle. La carte est un fichier markdown **([README.md](http://README.md))** qui, en plus du contenu, contient des métadonnées telles que les balises.
 
-![](./images/model_card_git.png)
+![](../../images/model_card_git.png)
 
 Comme tous les modèles sont des dépôts basés sur Git, vous bénéficiez d'un contrôle de version dès le départ. Tout comme avec GitHub, vous pouvez effectuer des opérations telles que le clonage, l'ajout, l'engagement, le branchement et la poussée de Git. Si vous n'avez jamais utilisé Git auparavant, nous vous suggérons la [ressource](https://learngitbranching.js.org/) suivante.
 
@@ -86,7 +86,7 @@ Jusqu'à présent, nous avons exploré un seul modèle. Soyons fous ! À gauche 
   - **Librairies (bibliothèques) :** Bien que le *Hub* était à l'origine pour les modèles de transformateurs, le Hub a une intégration avec des dizaines de bibliothèques. Vous pouvez trouver des modèles de Keras, spaCy, allenNLP, et plus encore.
 - **Datasets (jeux de données) :** Le *Hub* héberge également des milliers de jeux de données, comme vous le découvrirez plus tard.
 
-![](./images/model_card_filters.png)
+![](../../images/model_card_filters.png)
 
 - **Languages (langues) :** La plupart des modèles du *Hub* sont liés au langage naturel. Vous pouvez trouver des modèles pour des centaines de langues, y compris des langues à faibles ressources.
 
@@ -149,7 +149,7 @@ Passons en revue les étapes :
 
 Et c'est terminé ! Vous pouvez vérifier votre dépôt avec tous les fichiers récemment ajoutés !
 
-![](./images/model_card_updated_repo.png)
+![](../../images/model_card_updated_repo.png)
 
 L'interface utilisateur vous permet d'explorer les fichiers du modèle et les commits et de voir la différence introduite par chaque commit.
 
@@ -184,15 +184,15 @@ Explorons le jeu de données [GLUE](https://huggingface.co/datasets/glue), qui e
 
 - Comme pour les dépôts de modèles, vous avez une carte de jeu de données qui documente le jeu de données. Si vous faites défiler un peu vers le bas, vous trouverez des éléments tels que le résumé, la structure, et plus encore.
 
-![](./images/datasets_card.png)
+![](../../images/datasets_card.png)
 
 - En haut, vous pouvez explorer une partie du jeu de données directement dans le navigateur. Le jeu de données GLUE est divisé en plusieurs sous-jeux (ou sous-ensembles) que vous pouvez sélectionner, tels que COLA et QNLI.
 
-  ![](./images/datasets_slices.png)
+  ![](../../images/datasets_slices.png)
 
 - À droite de la carte du jeu de données, vous pouvez voir une liste des modèles entraînés sur ce jeu de données.
 
-![](./images/datasets_models_trained.png)
+![](../../images/datasets_models_trained.png)
 
 **Défi 6**. Recherchez le jeu de données Common Voice. Répondez à ces questions :
 
