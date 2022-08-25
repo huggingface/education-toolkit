@@ -152,6 +152,8 @@ Classrooms provide teachers & students with dedicated collaborative workspaces t
 
 - **09/08**[EVENT]: ML Demo.cratization tour in Argentina at 2pm (local time). [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfeD1C5W_YQxrGAm1pPHpccglqimm-Ot56RZwW-WQHWUOjxPA/viewform?usp=sf_link)
 - **09/14**[EVENT]: ML Demo.cratization tour in Canada at 6pm (EST time). [Register here](https://docs.google.com/forms/d/e/1FAIpQLSeEBSBVLQGsGJkW2suo3FYexvlkelurcweA2sSLMFTUTBy3Og/viewform?usp=sf_link)
+- **09/23**[EVENT]: ML Demo.cratization tour in Morocco at 6pm (CEST time). [Register here](https://docs.google.com/forms/d/e/1FAIpQLScjXlnZdmF76d3rtZtiT4vul-zZ_NnvjU5mmwNVOu7vjlaH5w/viewform)
+
 
 
 
