@@ -52,6 +52,8 @@ Would you like to find the tutorials in other languages? You can find all the tr
 > **_Duration: 30-45 minutes_**
 >
 > 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
+
+
 > 👉 [click here to access the hands-on Transformers exercices](https://github.com/NielsRogge/Transformers-Tutorials)
 
 ## **Our Teaching Guide: A Tour Through The 🤗 Hub & Gradio**
