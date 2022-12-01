@@ -170,5 +170,7 @@
 
 
 <aside>
-✉️ إذا كانت لديك أي أسئلة ، فاتصل بـ violette@huggingface.co!
+
+###### ✉️ إذا كانت لديك أي أسئلة ، فاتصل بـ violette@huggingface.co!
+
 </aside>
