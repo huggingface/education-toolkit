@@ -125,8 +125,9 @@
 
 
 ### **الكتاب 🤗**
-
-<img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
+<div>
+   <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover" align="right" />
+</div>
 
 صدر في فبراير 2022.
 
