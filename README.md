@@ -55,6 +55,20 @@ Would you like to find the tutorials in other languages? You can find all the tr
 
 > 👉 [click here to access hands-on Transformers exercices](https://github.com/NielsRogge/Transformers-Tutorials)
 
+### 4️⃣ 🧨 diffusers for Democratizing Diffusion Models 
+
+> In this tutorial, you get to know about:
+>
+> - Diffusion models
+> - Various use cases of diffusion models
+> - How to use the `diffusers` library to use pre-trained state-of-the-art diffusion models
+>
+>
+> **_Duration: 30-45 minutes_**
+>
+> 👉 [click here to access the slides](https://docs.google.com/presentation/d/1uGjBkxs1qRov3p1-UMpqEXgbId95XDH6oLrKQcZiljk/edit?usp=sharing)
+
+
 ## **Our Teaching Guide: A Tour Through The 🤗 Hub & Gradio**
 
 In this video, Nate and Lewis give you a guided tour of Transformers and transfer learning, along with an overview of Hugging Face's open science efforts and tools that enable people to work collaboratively in their Machine Learning projects.
