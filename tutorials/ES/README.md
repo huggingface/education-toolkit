@@ -40,9 +40,9 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 
 > En este tutorial aprenderá:
 >
-> - Sobre las redes neuronales de Transformers y cómo se pueden utilizar para abordar una amplia gama de tasks en el procesamiento del lenguaje natural y más allá.
-> - El aprendizaje por transferencia para adaptar Transformers a tasks específicos.
-> - Sobre la función `pipeline()` de la biblioteca de `transformers` y cómo se puede usar para ejecutar inferencias con modelos del Hub de [Hugging Face.](https://huggingface.co/models)
+> - Sobre las redes neuronales de Transformers y cómo se pueden utilizar para abordar una amplia gama de tareas en el procesamiento del lenguaje natural, visión por ordenador, reconocimiento de voz y más allá.
+> - El aprendizaje por transferencia para adaptar Transformers a tareas específicos.
+> - Sobre la potente y simple función `pipeline()` de la biblioteca de `transformers` y cómo se puede usar para ejecutar inferencias con modelos del Hub de [Hugging Face.](https://huggingface.co/models)
 >
 > Este tutorial se basa en nuestro primer libro de O'Reilly _[Natural Language Processing with Transformers](https://transformersbook.com/) -_ ¡Échale un vistazo si quieres profundizar más en el tema!
 >
@@ -54,14 +54,14 @@ Además de los tutoriales, también compartimos otros recursos para profundizar 
 
 ### **El 🤗 Curso**
 
-Brindamos un curso (gratis y sin anuncios) que le enseña procesamiento del lenguaje natural (NLP) utilizando bibliotecas del ecosistema de [Hugging Face.](https://huggingface.co/)
+Brindamos un curso (gratis y sin anuncios) que le enseña procesamiento del lenguaje natural (PLN o NLP or sus siglas en Inglés) utilizando bibliotecas del ecosistema de [Hugging Face.](https://huggingface.co/)
 
 👉 [De clic aquí para acceder al 🤗 Curso](https://huggingface.co/course/chapter1/1).
 
     💡 Este curso:
 
-- Requiere buen conocimiento de Python.
-- Es mejor tomarlo después de un curso introductorio de Machine Learning como **[aprendizaje profundo práctico de fast.ai](https://www.fast.ai/)** o uno de los programas desarrollados por **[deeplearning.ai](https://www.deeplearning.ai/)**
+- Requiere buen conocimiento de **Python**.
+- Se recomienda realizarlo después de un curso introductorio de Machine Learning como **[aprendizaje profundo práctico de fast.ai](https://www.fast.ai/)** o uno de los programas desarrollados por **[deeplearning.ai](https://www.deeplearning.ai/)**
 - No requiere conocimientos previos en **[PyTorch](https://pytorch.org/)** o **[TensorFlow](https://www.tensorflow.org/),** aunque ayudará si tiene algo de familiaridad con cualquiera de ellos.
 </aside>
 
@@ -77,7 +77,7 @@ Aprenda de parte de los expertos de Hugging Face todo sobre los Transformers y s
 
     💡 Este libro:
 
-- Está escrito para científicos de datos e ingenieros de Machine Learning que pueden haber oído hablar de los avances recientes relacionados con los transformers pero que carecen de una guía detallada que los ayude a adaptar estos modelos a sus propios casos de uso.
+- Está escrito para científicos de datos e ingenieros de Machine Learning que pueden haber oído hablar de los avances recientes relacionados con los Transformers pero que carecen de una guía detallada que los ayude a adaptar estos modelos a sus propios casos de uso.
 - Supone que tiene alguna experiencia entrenando modelos con GPUs.
 - No requiere conocimientos previos de [PyTorch](https://pytorch.org/) o [TensorFlow](https://www.tensorflow.org/), aunque cierta familiaridad con cualquiera de ellos ayudará
 </aside>

@@ -5,8 +5,6 @@
 👋 **Welcome!**
 
 We’ve assembled a toolkit that anyone can use to easily prepare workshops, events, homework or classes. The content is self-contained so that it can be easily incorporated in other material. This content is **free** and uses well-known Open Source technologies (`transformers`, `gradio`, etc).
-  
-On June 6 we're organizing a dedicated, free workshop on how to teach these resources in your community. Do not hesitate to [register](https://www.eventbrite.com/e/how-to-teach-open-source-machine-learning-tools-tickets-310980931337).
 
 Apart from tutorials, we also share other resources to go further into ML or that can assist in designing content.
 
@@ -55,6 +53,22 @@ Would you like to find the tutorials in other languages? You can find all the tr
 >
 > 👉 [click here to access the tutorial](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
 
+> 👉 [click here to access hands-on Transformers exercices](https://github.com/NielsRogge/Transformers-Tutorials)
+
+### 4️⃣ 🧨 diffusers for Democratizing Diffusion Models 
+
+> In this tutorial, you get to know about:
+>
+> - Diffusion models
+> - Various use cases of diffusion models
+> - How to use the `diffusers` library to use pre-trained state-of-the-art diffusion models
+>
+>
+> **_Duration: 30-45 minutes_**
+>
+> 👉 [click here to access the slides](https://docs.google.com/presentation/d/1uGjBkxs1qRov3p1-UMpqEXgbId95XDH6oLrKQcZiljk/edit?usp=sharing)
+
+
 ## **Our Teaching Guide: A Tour Through The 🤗 Hub & Gradio**
 
 In this video, Nate and Lewis give you a guided tour of Transformers and transfer learning, along with an overview of Hugging Face's open science efforts and tools that enable people to work collaboratively in their Machine Learning projects.
@@ -63,7 +77,7 @@ In this video, Nate and Lewis give you a guided tour of Transformers and transfe
 
 ## **Other resources to learn your way!**
 
-### **The 🤗 Course**
+### **The 🤗 NLP Course**
 
 We provide a course (free and without ads) that teaches you about natural language processing (NLP) using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
 
@@ -76,6 +90,46 @@ We provide a course (free and without ads) that teaches you about natural langua
 - Is better taken after an introductory deep learning course, such as **[fast.ai’s](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** or one of the programs developed by **[DeepLearning.AI](https://www.deeplearning.ai/)**
 - Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
 </aside>
+
+### **The 🤗 Gradio Course**
+
+We provide a course (free and without ads) that teaches you how to build interactive demos for your machine learning models using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+
+👉 [click here to access the 🤗 Course](https://huggingface.co/course/chapter9/1)
+
+<aside>
+💡 This course:
+
+- Its ultimate goal is to allow ML developers to easily present their work to a wide audience including non-technical teams or customers, researchers to more easily reproduce machine learning models and behavior, end users to more easily identify and debug failure points of models, and more!
+</aside>
+
+### **The 🤗 RL Course**
+
+We provide a course (free and without ads) that teaches you about Deep Reinforcement Learning using libraries from the **[Hugging Face](https://huggingface.co/)** ecosystem.
+
+👉 [click here to access the 🤗 Course](https://github.com/huggingface/deep-rl-class)
+
+<aside>
+💡 This course:
+
+- Study Deep Reinforcement Learning in theory and practice 
+- Learn to use famous Deep RL libraries
+- Train agents in unique environments
+- Publish your trained agents in one line of code to the Hugging Face Hub, and more!
+</aside>
+
+### **The Sentence Transformers educational material**
+
+We provide several tutorials on one of the most powerful libraries for industrial and academic applications. [Sentence Transformers](https://huggingface.co/sentence-transformers) allows you to create state-of-the-art embeddings from images and text for free.
+
+<aside>
+💡 We recommend following the tutorials in this order:
+
+- Introduction to working with embeddings using the Inference API and the 🤗 Datasets library ([link](https://t.co/gcqqilyJYn)).
+- Interactive tutorial on Semantic Search ([link](https://t.co/lboHZKmygR)).
+- Share and load Sentence Transformers models from the Hub ([link](https://www.sbert.net/docs/hugging_face.html)).
+- Guide to start with your Sentence Transformers project ([link](https://t.co/BDTP6XoATu)).
+- Sentence Transformers models and links in the Hub ([link](https://huggingface.co/sentence-transformers)).
 
 ### **The 🤗 Book**
 
@@ -95,6 +149,29 @@ From experts at Hugging Face, learn all about Transformers and their application
 - Does not expect prior **[PyTorch](https://pytorch.org/)** or **[TensorFlow](https://www.tensorflow.org/)** knowledge, though some familiarity with either of those will help
 </aside>
 
+### **The 🤗 Classroom**
+
+Classrooms provide teachers & students with dedicated collaborative workspaces to take advantage of Hugging Face resources in a more powerful manner than the average user.
+
+👉 [click here to create your 🤗 Classroom for free](https://huggingface.co/classrooms)
+
+<aside>
+💡 From classrooms, you can:
+
+- **Empower your students with state-of-the-art resources:** build machine learning applications with Hugging Face and collaborate with your students easily on all their datasets, models and ML demos hosted within your classroom workspace.
+- **Give your students unlimited access to modern machine learning tools:**  upload datasets, models and demos for free. Train, fine-tune, experiment and deploy, then share models and demos with the classroom or community, all hosted for free.
+- **Benefit from free advanced computational resources** such as access to Accelerated Inference API. [click here to enhance your Classroom](https://docs.google.com/forms/d/e/1FAIpQLSfQ22dZHmsh-vHpjboLwcyMJvEC5kpKX8k9N_ihM_lyGgcXHA/viewform)
+
+</aside>
+
+### **The 🤗 Education Events & News**
+
+- **10/28**[EVENT]: ML Demo.cratization tour in Ireland at 6pm (CEST time). [link coming]()
+- **11/16**[EVENT]: ML Demo.cratization tour in Chile at noon (CLST time). [link coming]()
+- **11/30**[EVENT]: ML Demo.cratization tour in Colorado at 10.30 am (MST time). [link coming]()
+- **12/06**[EVENT]: ML Demo.cratization tour in Georgia at 5.00 pm (GMT+4 time). [link coming]()
+
+
 
 ## 🌎 Translations
 
@@ -103,11 +180,12 @@ From experts at Hugging Face, learn all about Transformers and their application
 |      Italian     |   [ `tutorials/IT` ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/IT)   | @[MorenoLaQuatra](https://github.com/MorenoLaQuatra)                                        |
 |      Spanish     |  [ `tutorials/ES` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/ES )  | @[Fabioburgos](https://github.com/Fabioburgos)                                              |
 |      Turkish     |  [ `tutorials/TR` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/TR )  | @[emrecgty](https://github.com/emrecgty/) @[farukozderim](https://github.com/FarukOzderim/) |
-|   French (WIP)   |  [  `tutorials/FR`  ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/FR)  | @[g0bel1n](https://github.com/g0bel1n)                                                      |
+|   French (WIP)   |  [  `tutorials/FR`  ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/FR)  | @[g0bel1n](https://github.com/g0bel1n) @[lbourdois](https://github.com/lbourdois)                                                      |
 | Hebrew (WIP)     | [   `tutorials/HE`   ](https://github.com/huggingface/education-toolkit/tree/main/tutorials/IW) | @[omer-dor](https://github.com/omer-dor)                                                    |
 |  Japanese (WIP)  |  [ `tutorials/JA` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/JA )  | @[Wataru-Nakata](https://github.com/Wataru-Nakata)                                          |
-| Korean (WIP)     | [  `tutorials/KO`  ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/KO ) | @ [oikosohn](https://github.com/oikosohn)                                                   |
+| Korean (WIP)     | [  `tutorials/KO`  ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/KO ) | @[oikosohn](https://github.com/oikosohn) @[eunseojo](https://github.com/oikosohn)                                                  |
 | Portuguese (WIP) |  [ `tutorials/PT` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/PT )  | @[johnnv1](https://github.com/johnnv1/)                                                     |
+| Vietnamese |  [ `tutorials/VI` ]( https://github.com/huggingface/education-toolkit/tree/main/tutorials/VI )  | @[honghanhh](https://github.com/honghanhh/)                                                     |
 
 If you would like to translate the tutorials to your language, see our [TRANSLATING](https://github.com/huggingface/education-toolkit/blob/main/TRANSLATING.md) guide.
 
